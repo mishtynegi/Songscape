@@ -1,0 +1,1101 @@
+year,rank,artist,id,genres,popularity,followers
+2018,1,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712222
+2018,2,Post Malone,246dkjvS1zLTtiykXe5h60,"['pop', 'rap']",96,12995757
+2018,3,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'uk pop']",92,42734338
+2018,4,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147433
+2018,5,Cardi B,4kYSro6naA4h99UJvo89HB,"['pop', 'rap']",92,7664136
+2018,6,XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,"['emo rap', 'miami hip hop']",95,12210321
+2018,7,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,"['modern rock', 'rock']",92,17968308
+2018,8,BTS,3Nrfpe0tUJi4K4DXYWgMUX,['k-pop'],93,10282224
+2018,9,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop', 'post-teen pop']",91,20623359
+2018,10,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,9235130
+2018,11,Migos,6oMuImdp5ZcFhWP0ESe6mG,"['atl hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",88,8651342
+2018,12,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"['pop', 'pop rap', 'rap', 'trap music']",94,5337797
+2018,13,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932451
+2018,14,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"['dance pop', 'pop', 'post-teen pop']",98,27818358
+2018,15,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,"['conscious hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']",90,12246547
+2018,16,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17457990
+2018,17,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,['chicago rap'],95,3915851
+2018,18,Khalid,6LuN9FCkKOj5PcnpouEgny,['pop'],98,5925928
+2018,19,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",89,10825980
+2018,20,Halsey,26VFTg2z8YR0cCuwLzESi2,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",91,5833119
+2018,21,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107933
+2018,22,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,"['conscious hip hop', 'nc hip hop', 'pop rap', 'rap']",91,8059419
+2018,23,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop', 'rap']",90,15399472
+2018,24,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']",83,7840587
+2018,25,Sam Smith,2wY79sveU1sp5g7SokKOiI,"['pop', 'post-teen pop']",91,8307963
+2018,26,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930249
+2018,27,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,13360420
+2018,28,6ix9ine,7gZfnEnfiaHzxARJ2LeXrf,['emo rap'],88,3802980
+2018,29,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,['contemporary country'],77,1411923
+2018,30,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",89,16030859
+2018,31,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",84,2725450
+2018,32,Lil Baby,5f7VJjfbwm532GiveGC0ZK,"['atl hip hop', 'atl trap', 'rap', 'trap music']",89,1967522
+2018,33,Ella Mai,7HkdQ0gt53LP4zmHsL0nap,"['dance pop', 'pop', 'r&b', 'uk contemporary r&b', 'urban contemporary']",80,1463501
+2018,34,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,"['dance pop', 'pop', 'post-teen pop']",88,3436790
+2018,35,G-Eazy,02kJSzxNuaWGqwubyUba0Z,"['hip hop', 'indie pop rap', 'pop', 'pop rap', 'rap']",86,3836487
+2018,36,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897779
+2018,37,YoungBoy Never Broke Again,7wlFDEWiM5OoIAt8RSli8b,['trap music'],85,2374593
+2018,38,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2018,39,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,"['dance pop', 'pop', 'post-teen pop']",84,1340947
+2018,40,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,"['contemporary country', 'country', 'country road', 'modern country rock']",80,2556318
+2018,41,NF,6fOMl44jA4Sp5b9PpYCkzz,"['hip hop', 'rap']",82,1740832
+2018,42,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199637
+2018,43,Lil Wayne,55Aa2cqylxrFIXC767Z865,"['hip hop', 'new orleans rap', 'pop', 'pop rap', 'rap', 'trap music']",91,7686851
+2018,44,Lil Pump,3wyVrVrFCkukjdVIdirGVY,"['emo rap', 'miami hip hop', 'rap', 'trap music']",85,5424147
+2018,45,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,"['contemporary country', 'country road']",80,1418083
+2018,46,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2018,47,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560310
+2018,48,Luke Combs,718COspgdWOnwOFpJHRZHS,"['contemporary country', 'country road']",81,1116654
+2018,49,Logic,4xRYI6VqpkE3UwrDrAZL8L,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",87,3528533
+2018,50,21 Savage,1URnnhqYAYcrqrcwql10ft,"['atl hip hop', 'rap', 'trap music']",90,5948291
+2018,51,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742932
+2018,52,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443684
+2018,53,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,"['philly rap', 'rap', 'trap music']",88,6137014
+2018,54,SZA,7tYKF4w9nC0nq9CsPZTHyP,"['hip hop', 'pop', 'pop rap', 'r&b', 'rap']",82,2484137
+2018,55,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,"['miami hip hop', 'rap', 'trap music']",89,4594372
+2018,56,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",83,6504833
+2018,57,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,"['emo', 'modern rock', 'pop punk']",88,6608182
+2018,58,Marshmello,64KEffDW9EtZ1y2vBYgq8T,"['brostep', 'egyptian pop', 'progressive electro house']",92,11067891
+2018,59,Rich The Kid,1pPmIToKXyGdsCF6LmqLmI,"['atl hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,1550930
+2018,60,U2,51Blml2LZPmy7TTiAg47vQ,"['irish rock', 'permanent wave', 'rock']",81,4715172
+2018,61,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']",89,14579916
+2018,62,5 Seconds Of Summer,5Rl15oVamLq7FbSb0NNBNy,"['boy band', 'dance pop', 'pop', 'post-teen pop']",86,4474856
+2018,63,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,"['latin', 'pop', 'reggaeton']",94,13785594
+2018,64,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,['contemporary country'],79,835310
+2018,65,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262679
+2018,66,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,"['reggaeton', 'trap latino']",96,15952494
+2018,67,Bad Bunny,4q3ewBCX7sLwd24euuV69X,"['reggaeton', 'trap latino']",94,12080672
+2018,68,The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",82,6496138
+2018,69,Eagles,0ECwFtbIWEVNwjlrfc6xoL,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",78,2955399
+2018,70,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,['contemporary country'],75,343982
+2018,71,Childish Gambino,73sIBHcqh3Z3NyqHKZ7FOL,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",82,4818980
+2018,72,Portugal. The Man,4kI8Ie27vjvonwaB2ePh8T,"['indie pop', 'indie rock', 'modern rock']",75,889151
+2018,73,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2018,74,Lil Skies,7d3WFRME3vBY2cgoP38RDo,['trap music'],87,2462753
+2018,75,Future,1RyvyyTE3xzB2ZywiAwp0i,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",90,7733683
+2018,76,EXO,3cjEqqelV9zb4BYE3qDQ4O,['k-pop'],78,3942321
+2018,77,BlocBoy JB,4TEJudQY2pXxVHPE3gD2EU,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music', 'vapor trap']",76,732806
+2018,78,Lauv,5JZ7CnR6gTvEMKX4g70Amv,"['dance pop', 'pop', 'post-teen pop']",87,1128649
+2018,79,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033164
+2018,80,Elton John,3PhoLpVuITZKcymswpck5b,"['glam rock', 'mellow gold', 'piano rock', 'soft rock']",82,2623859
+2018,81,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,"['atl hip hop', 'pop', 'pop rap', 'rap', 'trap music']",91,1064644
+2018,82,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",86,1226645
+2018,83,Queen,1dfeR4HaWDbWqFHLkxsg1d,"['glam rock', 'rock']",94,14975935
+2018,84,Pentatonix,26AHtbjWKiwYzsoGoUZq53,['a cappella'],73,2215084
+2018,85,Young Thug,50co4Is1HCEo8bhOyUWKpn,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,3963247
+2018,86,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2018,87,twenty one pilots,3YQKmKGau1PzlVlkL1iodx,"['pop punk', 'rock']",88,12499251
+2018,88,The Carters,4fpTMHe34LC5t3h5ztK8qu,"['pop', 'r&b', 'urban contemporary']",68,474892
+2018,89,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,"['contemporary country', 'country road']",74,479110
+2018,90,Ty Dolla $ign,7c0XG5cIJTrrAgEC3ULPiq,"['hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'trap music']",89,2572656
+2018,91,Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,2653640
+2018,92,Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",78,1643943
+2018,93,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,['contemporary country'],82,319618
+2018,94,Journey,0rvjqX7ttXeg3mTy8Xscbt,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",76,2002961
+2018,95,Foo Fighters,7jy3rLJdDQY21OgRLCZ9sD,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",80,6092295
+2018,96,Celine Dion,4S9EykWXhStSc15wEx8QFK,"['canadian pop', 'dance pop']",77,2224491
+2018,97,DJ Khaled,0QHgL1lAIqAw0HtD7YldmP,"['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",79,3802245
+2018,98,Harry Styles,6KImCVD70vtIoJWnq6nGn3,"['dance pop', 'pop', 'post-teen pop']",76,4212410
+2018,99,Lauren Daigle,40LHVA5BTQp9RxHOQ9JPYj,"['ccm', 'christian music', 'worship']",76,751760
+2018,100,Gunna,2hlmm7s2ICUX0LVIhVFlZQ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap music']",89,1010623
+2017,1,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'uk pop']",92,42734338
+2017,2,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop', 'post-teen pop']",91,20623359
+2017,3,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712222
+2017,4,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,"['conscious hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']",90,12246547
+2017,5,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop', 'rap']",90,15399472
+2017,6,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,"['dance pop', 'edm', 'electropop', 'pop', 'tropical house']",89,11754681
+2017,7,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",88,27254837
+2017,8,Future,1RyvyyTE3xzB2ZywiAwp0i,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",90,7733683
+2017,9,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",89,16030859
+2017,10,BTS,3Nrfpe0tUJi4K4DXYWgMUX,['k-pop'],93,10282226
+2017,11,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",88,19023483
+2017,12,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,"['philly rap', 'rap', 'trap music']",88,6137014
+2017,13,Migos,6oMuImdp5ZcFhWP0ESe6mG,"['atl hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",88,8651342
+2017,14,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,"['modern rock', 'rock']",92,17968308
+2017,15,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"['dance pop', 'pop', 'post-teen pop']",98,27818368
+2017,16,Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,"['glam metal', 'hard rock', 'rock']",82,11637735
+2017,17,Post Malone,246dkjvS1zLTtiykXe5h60,"['pop', 'rap']",96,12995759
+2017,18,U2,51Blml2LZPmy7TTiAg47vQ,"['irish rock', 'permanent wave', 'rock']",81,4715172
+2017,19,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2017,20,DJ Khaled,0QHgL1lAIqAw0HtD7YldmP,"['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",79,3802245
+2017,21,Khalid,6LuN9FCkKOj5PcnpouEgny,['pop'],98,5925933
+2017,22,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,"['conscious hip hop', 'nc hip hop', 'pop rap', 'rap']",91,8059419
+2017,23,Metallica,2ye2Wgw4gimLv2eAKyk1NB,"['alternative metal', 'hard rock', 'metal', 'old school thrash', 'rock', 'speed metal', 'thrash metal']",84,10153094
+2017,24,Halsey,26VFTg2z8YR0cCuwLzESi2,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",91,5833119
+2017,25,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147435
+2017,26,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262679
+2017,27,Alessia Cara,2wUjUUtkb5lvLKcGKsKqsR,"['canadian contemporary r&b', 'dance pop', 'pop', 'post-teen pop', 'r&b']",83,5085143
+2017,28,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,"['contemporary country', 'country pop']",74,1573829
+2017,29,Niall Horan,1Hsdzj7Dlq2I7tHP7501T4,"['dance pop', 'neo mellow', 'pop', 'post-teen pop']",79,3549523
+2017,30,Rae Sremmurd,7iZtZyCzp3LItcw1wtPI3D,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",81,4752993
+2017,31,twenty one pilots,3YQKmKGau1PzlVlkL1iodx,"['pop punk', 'rock']",88,12499251
+2017,32,Big Sean,0c173mlxpT3dSFRgMO8XPh,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']",84,5970139
+2017,33,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,"['miami hip hop', 'rap', 'trap music']",89,4594372
+2017,34,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"['pop', 'pop rap', 'rap', 'trap music']",94,5337797
+2017,35,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']",89,14579916
+2017,36,21 Savage,1URnnhqYAYcrqrcwql10ft,"['atl hip hop', 'rap', 'trap music']",90,5948291
+2017,37,Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,2653640
+2017,38,James Arthur,4IWBUUAFIplrNtaOHcJPRM,"['dance pop', 'pop', 'post-teen pop', 'talent show']",85,3780385
+2017,39,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,13360420
+2017,40,Childish Gambino,73sIBHcqh3Z3NyqHKZ7FOL,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",82,4818980
+2017,41,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,['contemporary country'],77,1411923
+2017,42,Pentatonix,26AHtbjWKiwYzsoGoUZq53,['a cappella'],73,2215084
+2017,43,Logic,4xRYI6VqpkE3UwrDrAZL8L,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",87,3528533
+2017,44,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443684
+2017,45,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",84,2725450
+2017,46,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",83,6504833
+2017,47,Adele,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'uk pop']",85,15099171
+2017,48,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17457991
+2017,49,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673193
+2017,50,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930249
+2017,51,Cardi B,4kYSro6naA4h99UJvo89HB,"['pop', 'rap']",92,7664137
+2017,52,The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",82,6496138
+2017,53,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,"['contemporary country', 'country', 'country road', 'modern country rock']",80,2556318
+2017,54,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897779
+2017,55,XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,"['emo rap', 'miami hip hop']",95,12210323
+2017,56,Harry Styles,6KImCVD70vtIoJWnq6nGn3,"['dance pop', 'pop', 'post-teen pop']",76,4212411
+2017,57,SZA,7tYKF4w9nC0nq9CsPZTHyP,"['hip hop', 'pop', 'pop rap', 'r&b', 'rap']",82,2484137
+2017,58,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932456
+2017,59,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199637
+2017,60,Depeche Mode,762310PdDnwsDxAQxzQkfX,"['dance rock', 'new romantic', 'new wave', 'permanent wave', 'synthpop']",75,2125046
+2017,61,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,"['dance pop', 'latin', 'latin pop', 'pop']",84,5704348
+2017,62,Maluma,1r4hJ1h58CWwUQe3MxPuau,['reggaeton'],91,15118896
+2017,63,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033164
+2017,64,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"['dance pop', 'pop', 'post-teen pop']",84,8442273
+2017,65,French Montana,6vXTefBL93Dj5IqAWq6OTv,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",85,2628538
+2017,66,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,['contemporary country'],75,343982
+2017,67,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",92,10787457
+2017,68,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,9235130
+2017,69,Liam Payne,5pUo3fmmHT8bhCyHE52hA6,"['dance pop', 'edm', 'pop', 'post-teen pop', 'tropical house']",78,3241360
+2017,70,Calvin Harris,7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",91,16216500
+2017,71,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2017,72,Zayn,5ZsFI1h6hIdQRw2ti0hz81,"['dance pop', 'pop', 'post-teen pop']",83,7512183
+2017,73,Celine Dion,4S9EykWXhStSc15wEx8QFK,"['canadian pop', 'dance pop']",77,2224491
+2017,74,Luke Combs,718COspgdWOnwOFpJHRZHS,"['contemporary country', 'country road']",81,1116654
+2017,75,Julia Michaels,0ZED1XzwlLHW4ZaG4lOT6m,"['dance pop', 'electropop', 'pop', 'post-teen pop', 'r&b']",86,1655941
+2017,76,Sam Smith,2wY79sveU1sp5g7SokKOiI,"['pop', 'post-teen pop']",91,8307963
+2017,77,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",87,12086299
+2017,78,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107933
+2017,79,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,"['contemporary country', 'country', 'country road', 'modern country rock']",73,708872
+2017,80,Chance The Rapper,1anyVhU62p31KFi8MEzkbf,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop', 'pop rap', 'rap']",82,3958100
+2017,81,Bryson Tiller,2EMAnMvWE2eb56ToJVfCWs,"['hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'trap music']",80,3329109
+2017,82,Quavo,0VRj0yCOv2FXJNP47XQnx5,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",88,2799312
+2017,83,Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5,"['alternative rock', 'funk metal', 'permanent wave', 'post-grunge', 'rock']",86,10188415
+2017,84,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,"['rap', 'trap music']",90,2795337
+2017,85,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,"['contemporary country', 'country', 'country road', 'modern country rock']",75,1957563
+2017,86,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2017,87,Tom Petty And The Heartbreakers,4tX2TplrkIP4v05BNC903e,"['album rock', 'classic rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'pop rock', 'psychedelic rock', 'rock', 'roots rock', 'soft rock']",71,931576
+2017,88,Roger Waters,40DqL6Tv84cKT2pH2NMs9r,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'rock', 'symphonic rock']",57,722779
+2017,89,Portugal. The Man,4kI8Ie27vjvonwaB2ePh8T,"['indie pop', 'indie rock', 'modern rock']",75,889151
+2017,90,Playboi Carti,699OTQXzgjhIYAHMy9RyPD,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music', 'underground hip hop']",82,2207650
+2017,91,Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",78,1643943
+2017,92,John Mayer,0hEurMDQu99nJRq8pTxO14,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",87,3628781
+2017,93,2 Chainz,17lzZA2AlOHwCwFALHttmp,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,4392454
+2017,94,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2017,95,Kesha,6LqNN22kT3074XbTVUrhzX,"['dance pop', 'electropop', 'pop', 'pop rap', 'post-teen pop']",79,4453723
+2017,96,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']",83,7840587
+2017,97,Sia,5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'dance pop', 'pop']",89,11441389
+2017,98,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742932
+2017,99,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,"['contemporary country', 'country road']",80,1418083
+2017,100,Zedd,2qxJFvFYMEDqd7ui6kSAcq,"['complextro', 'dance pop', 'edm', 'german techno', 'pop', 'post-teen pop', 'tropical house']",86,4161075
+2016,1,Adele,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'uk pop']",85,15099171
+2016,2,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",88,27254839
+2016,3,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712222
+2016,4,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199637
+2016,5,twenty one pilots,3YQKmKGau1PzlVlkL1iodx,"['pop punk', 'rock']",88,12499251
+2016,6,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2016,7,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"['dance pop', 'pop', 'post-teen pop']",98,27818372
+2016,8,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop', 'rap']",90,15399472
+2016,9,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",88,19023485
+2016,10,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",89,16030859
+2016,11,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']",89,14579916
+2016,12,Future,1RyvyyTE3xzB2ZywiAwp0i,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",90,7733683
+2016,13,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,"['dance pop', 'edm', 'electropop', 'pop', 'tropical house']",89,11754681
+2016,14,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']",77,2108039
+2016,15,Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'r&b']",81,7217453
+2016,16,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147437
+2016,17,Bryson Tiller,2EMAnMvWE2eb56ToJVfCWs,"['hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'trap music']",80,3329109
+2016,18,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2016,19,Zayn,5ZsFI1h6hIdQRw2ti0hz81,"['dance pop', 'pop', 'post-teen pop']",83,7512183
+2016,20,Prince,5a2EaR3hamoenG9rDuVn8j,"['funk', 'minneapolis sound', 'motown']",75,3337950
+2016,21,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897779
+2016,22,Desiigner,7pFeBzX627ff0VnN6bxPR4,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music', 'viral trap']",73,2503160
+2016,23,G-Eazy,02kJSzxNuaWGqwubyUba0Z,"['hip hop', 'indie pop rap', 'pop', 'pop rap', 'rap']",86,3836487
+2016,24,Fetty Wap,6PXS4YHDkKvl1wkIl4V8DL,"['hip hop', 'new jersey rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",78,3360510
+2016,25,Sia,5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'dance pop', 'pop']",89,11441389
+2016,26,One Direction,4AK6F7OLvEQ5QYCBNiQWHq,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'talent show']",85,12783782
+2016,27,Fifth Harmony,1l8Fu6IkuTP0U5QetQJ5Xt,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'r&b', 'talent show', 'viral pop']",77,8105371
+2016,28,Lukas Graham,25u4wHJWxCA9vO0CzxAbK7,"['danish pop', 'scandipop']",79,1196655
+2016,29,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257548
+2016,30,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']",83,7840587
+2016,31,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",84,2725450
+2016,32,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",83,6504833
+2016,33,Flo Rida,0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop']",81,6935124
+2016,34,Kevin Gates,1gPhS1zisyXr5dHTYZyiMe,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,2304710
+2016,35,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2016,36,DNCE,6T5tfhQCknKG4UnH90qGnz,"['dance pop', 'pop', 'post-teen pop']",75,2251583
+2016,37,Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,"['glam metal', 'hard rock', 'rock']",82,11637735
+2016,38,Alessia Cara,2wUjUUtkb5lvLKcGKsKqsR,"['canadian contemporary r&b', 'dance pop', 'pop', 'post-teen pop', 'r&b']",83,5085144
+2016,39,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443684
+2016,40,Mike Posner,2KsP6tYLJlTBvSUxnwlVWa,"['dance pop', 'pop', 'pop rap']",75,821976
+2016,41,Daya,6Dd3NScHWwnW6obMFbl1BH,"['dance pop', 'electropop', 'pop', 'post-teen pop', 'viral pop']",78,842327
+2016,42,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,['contemporary country'],77,1411923
+2016,43,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,"['contemporary country', 'country', 'country road', 'modern country rock']",80,2556318
+2016,44,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,13360421
+2016,45,Madonna,6tbjWDEIzxoDsBA1FuhfPW,"['dance pop', 'europop', 'pop', 'pop rock']",78,2962414
+2016,46,Halsey,26VFTg2z8YR0cCuwLzESi2,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",91,5833120
+2016,47,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,"['contemporary country', 'country pop']",74,1573829
+2016,48,Calvin Harris,7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",91,16216501
+2016,49,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2016,50,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033164
+2016,51,Major Lazer,738wLrAtLtCtFOLvQBXOXp,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'tropical house']",81,5296413
+2016,52,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,"['dance pop', 'edm', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'tropical house']",85,6315858
+2016,53,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2016,54,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930249
+2016,55,5 Seconds Of Summer,5Rl15oVamLq7FbSb0NNBNy,"['boy band', 'dance pop', 'pop', 'post-teen pop']",86,4474856
+2016,56,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,"['conscious hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']",90,12246547
+2016,57,Pentatonix,26AHtbjWKiwYzsoGoUZq53,['a cappella'],73,2215084
+2016,58,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"['pop', 'pop rap', 'rap', 'trap music']",94,5337808
+2016,59,DJ Snake,540vIaP2JwjQb9dm3aArA4,"['dance pop', 'edm', 'electronic trap', 'pop', 'tropical house']",85,4438662
+2016,60,Tory Lanez,2jku7tDXc6XoB6MO2hFuqg,"['canadian hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']",86,2251426
+2016,61,James Bay,4EzkuveR9pLvDVFNx6foYD,"['neo mellow', 'pop', 'pop rock']",79,2243389
+2016,62,Troye Sivan,3WGpXCj9YhhfX11TToZcXP,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",85,3274815
+2016,63,Jeremih,3KV3p5EY4AvKxOlhGHORLg,"['chicago rap', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",82,3295608
+2016,64,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2016,65,DJ Khaled,0QHgL1lAIqAw0HtD7YldmP,"['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",79,3802245
+2016,66,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,"['conscious hip hop', 'nc hip hop', 'pop rap', 'rap']",91,8059419
+2016,67,The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",82,6496143
+2016,68,Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,"['hip hop', 'pittsburgh rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,8069674
+2016,69,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932460
+2016,70,Celine Dion,4S9EykWXhStSc15wEx8QFK,"['canadian pop', 'dance pop']",77,2224491
+2016,71,X Ambassadors,3NPpFNZtSTHheNBaWC82rB,"['modern alternative rock', 'modern rock', 'pop', 'pop rock', 'stomp pop']",77,1504340
+2016,72,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'europop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",81,5931624
+2016,73,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,"['emo', 'modern rock', 'pop punk']",88,6608182
+2016,74,Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",78,1643943
+2016,75,Elle King,3bhu7P5PfngueRHiB9hjcx,['pop rock'],65,307766
+2016,76,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262682
+2016,77,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107933
+2016,78,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1059207
+2016,79,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17457995
+2016,80,Ty Dolla $ign,7c0XG5cIJTrrAgEC3ULPiq,"['hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'trap music']",89,2572656
+2016,81,David Bowie,0oSGxfWSnnOXhD2fKuz2Gy,"['album rock', 'art rock', 'dance rock', 'glam rock', 'new wave', 'permanent wave', 'protopunk', 'rock']",82,3839064
+2016,82,Kiiara,4u5smJBskI6Adzv08PuiUP,"['dance pop', 'electropop', 'indie poptimism', 'pop', 'post-teen pop']",72,547968
+2016,83,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"['contemporary country', 'country', 'country road']",76,2656923
+2016,84,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,"['contemporary country', 'country', 'country road', 'modern country rock']",75,1957563
+2016,85,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,"['contemporary country', 'country', 'country road', 'modern country rock']",74,1744735
+2016,86,Rae Sremmurd,7iZtZyCzp3LItcw1wtPI3D,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",81,4752999
+2016,87,Disturbed,3TOqt5oJwL9BE2NG9MEwDa,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",79,2850262
+2016,88,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",79,6256797
+2016,89,Paul McCartney,4STHEaNw4mPZ2tzheohgXB,"['album rock', 'art rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock']",75,2132958
+2016,90,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'uk pop']",92,42734350
+2016,91,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673193
+2016,92,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,"['dance pop', 'pop', 'post-teen pop']",88,3436790
+2016,93,Nick Jonas,4Rxn7Im3LGfyRkY2FlHhWi,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'viral pop']",76,4258384
+2016,94,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,"['philly rap', 'rap', 'trap music']",88,6137014
+2016,95,Logic,4xRYI6VqpkE3UwrDrAZL8L,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",87,3528533
+2016,96,Young Thug,50co4Is1HCEo8bhOyUWKpn,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,3963247
+2016,97,gnash,3iri9nBFs9e4wN7PLIetAw,"['dance pop', 'pop', 'post-teen pop']",76,1139586
+2016,98,Chance The Rapper,1anyVhU62p31KFi8MEzkbf,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop', 'pop rap', 'rap']",82,3958100
+2016,99,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,9235133
+2016,100,D.R.A.M.,1Wry0EFTpNuY88F1Mt3OYY,"['hip hop', 'r&b', 'soul', 'trap music']",1,708
+2015,1,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147441
+2015,2,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'uk pop']",92,42734350
+2015,3,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop', 'rap']",90,15399472
+2015,4,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712231
+2015,5,One Direction,4AK6F7OLvEQ5QYCBNiQWHq,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'talent show']",85,12783782
+2015,6,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17457995
+2015,7,Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'r&b']",81,7217453
+2015,8,Fetty Wap,6PXS4YHDkKvl1wkIl4V8DL,"['hip hop', 'new jersey rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",78,3360510
+2015,9,Sam Smith,2wY79sveU1sp5g7SokKOiI,"['pop', 'post-teen pop']",91,8307963
+2015,10,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930249
+2015,11,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"['dance pop', 'pop', 'post-teen pop']",98,27818380
+2015,12,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']",89,14579916
+2015,13,Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,"['dance pop', 'pop']",82,528073
+2015,14,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897779
+2015,15,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",88,27254843
+2015,16,Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,"['hip hop', 'pittsburgh rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,8069674
+2015,17,WALK THE MOON,6DIS6PRrLS3wbnZsf7vYic,"['indie pop', 'indie poptimism', 'indietronica', 'modern rock', 'pop', 'pop rock']",74,1254591
+2015,18,Hozier,2FXC3k01G6Gw61bmprjgqS,"['folk-pop', 'irish singer-songwriter', 'pop']",83,2993480
+2015,19,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,"['emo', 'modern rock', 'pop punk']",84,6254659
+2015,20,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,"['dance pop', 'edm', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'tropical house']",85,6315858
+2015,21,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673193
+2015,22,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2015,23,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,"['contemporary country', 'country pop']",74,1573829
+2015,24,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199637
+2015,25,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,"['conscious hip hop', 'nc hip hop', 'pop rap', 'rap']",91,8059419
+2015,26,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2015,27,Nick Jonas,4Rxn7Im3LGfyRkY2FlHhWi,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'viral pop']",76,4258384
+2015,28,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,"['dance pop', 'pinoy hip hop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",84,6678960
+2015,29,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",84,2725450
+2015,30,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop', 'post-teen pop']",91,20623359
+2015,31,Silento,7juKTDFlPesGeWQ1GmjmOv,['pinoy hip hop'],56,212266
+2015,32,The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",82,6496143
+2015,33,OMI,5MouCg6ta7zAxsfMEbc1uh,"['dance pop', 'tropical house']",68,443568
+2015,34,U2,51Blml2LZPmy7TTiAg47vQ,"['irish rock', 'permanent wave', 'rock']",81,4715174
+2015,35,Tove Lo,4NHQUGzhtTLFvgF5SZesLK,"['dance pop', 'electropop', 'indie poptimism', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'swedish electropop', 'swedish pop', 'swedish synthpop']",78,1932436
+2015,36,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,13360421
+2015,37,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,"['conscious hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']",90,12246547
+2015,38,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443691
+2015,39,Future,1RyvyyTE3xzB2ZywiAwp0i,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",90,7733683
+2015,40,Big Sean,0c173mlxpT3dSFRgMO8XPh,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']",84,5970142
+2015,41,Rae Sremmurd,7iZtZyCzp3LItcw1wtPI3D,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",81,4752999
+2015,42,5 Seconds Of Summer,5Rl15oVamLq7FbSb0NNBNy,"['boy band', 'dance pop', 'pop', 'post-teen pop']",86,4474856
+2015,43,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,"['contemporary country', 'country', 'country road', 'modern country rock']",75,1957563
+2015,44,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2015,45,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",89,16030862
+2015,46,Sia,5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'dance pop', 'pop']",89,11441389
+2015,47,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2015,48,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2015,49,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,"['modern rock', 'rock']",92,17968308
+2015,50,Rachel Platten,3QLIkT4rD2FMusaqmkepbq,"['pop', 'post-teen pop', 'viral pop']",69,716934
+2015,51,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257548
+2015,52,Fifth Harmony,1l8Fu6IkuTP0U5QetQJ5Xt,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'r&b', 'talent show', 'viral pop']",77,8105371
+2015,53,Andy Grammer,2oX42qP5ineK3hrhBECLmj,"['dance pop', 'indie cafe pop', 'neo mellow', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'viral pop']",74,587234
+2015,54,Pitbull,0TnOYISbd1XYRBk9myaseg,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",83,6824104
+2015,55,Pentatonix,26AHtbjWKiwYzsoGoUZq53,['a cappella'],73,2215084
+2015,56,Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",82,3087665
+2015,57,Meek Mill,20sxb77xiYeusSH8cVdatc,"['hip hop', 'philly rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,3089872
+2015,58,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['dance pop', 'edm', 'pop']",90,18287383
+2015,59,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",83,6504838
+2015,60,Adele,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'uk pop']",85,15099176
+2015,61,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']",83,7840587
+2015,62,Iggy Azalea,5yG7ZAZafVaAlMTeBybKAL,"['australian hip hop', 'dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",76,3909116
+2015,63,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932460
+2015,64,Foo Fighters,7jy3rLJdDQY21OgRLCZ9sD,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",80,6092295
+2015,65,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"['dance pop', 'pop', 'post-teen pop']",84,8442273
+2015,66,Flo Rida,0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop']",81,6935124
+2015,67,Little Big Town,3CygdxquGHurS7f9LjNLkv,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",67,1382788
+2015,68,Trey Songz,2iojnBLj0qIMiKPvVhLnsH,"['dance pop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap music', 'urban contemporary']",80,4093699
+2015,69,Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",78,1643943
+2015,70,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,"['contemporary country', 'country', 'country road', 'modern country rock']",80,2556318
+2015,71,Calvin Harris,7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",91,16216501
+2015,72,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",79,6256797
+2015,73,Shania Twain,5e4Dhzv426EvQe3aDb64jL,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn', 'dance pop']",73,1452616
+2015,74,AC/DC,711MCceyCBcFnzjGY4Q7Un,"['album rock', 'australian rock', 'hard rock', 'rock']",84,10786746
+2015,75,Madonna,6tbjWDEIzxoDsBA1FuhfPW,"['dance pop', 'europop', 'pop', 'pop rock']",78,2962414
+2015,76,Omarion,0f5nVCcR06GX8Qikz0COtT,"['dance pop', 'deep pop r&b', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",68,1353709
+2015,77,DJ Snake,540vIaP2JwjQb9dm3aArA4,"['dance pop', 'edm', 'electronic trap', 'pop', 'tropical house']",85,4438662
+2015,78,Ne-Yo,21E3waRsmPlU7jZsS13rcj,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",81,4436379
+2015,79,twenty one pilots,3YQKmKGau1PzlVlkL1iodx,"['pop punk', 'rock']",88,12499255
+2015,80,X Ambassadors,3NPpFNZtSTHheNBaWC82rB,"['modern alternative rock', 'modern rock', 'pop', 'pop rock', 'stomp pop']",77,1504340
+2015,81,Vance Joy,10exVja0key0uqUkk6LJRT,"['folk-pop', 'indie folk', 'modern rock', 'neo mellow', 'pop']",78,1615698
+2015,82,Kid Ink,6KZDXtSj0SzGOV705nNeh3,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']",76,2114976
+2015,83,Rich Homie Quan,5lHRUCqkQZCIWeX7xG4sYT,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",73,1877913
+2015,84,Major Lazer,738wLrAtLtCtFOLvQBXOXp,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'tropical house']",81,5296413
+2015,85,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"['contemporary country', 'country', 'country road']",76,2656923
+2015,86,Neil Diamond,7mEIug7XUlQHikrFxjTWes,"['adult standards', 'brill building pop', 'christmas', 'folk', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",70,713930
+2015,87,Mumford & Sons,3gd8FJtBJtkRxdfbTu19U2,"['neo mellow', 'stomp and holler', 'uk americana']",80,4970823
+2015,88,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,"['dance pop', 'electropop', 'pop']",84,8055002
+2015,89,A$AP Rocky,13ubrt8QOOCPljQ2FL1Kca,"['east coast hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,5242826
+2015,90,Usher,23zg3TcAtWQy7J6upgbUnj,"['atl hip hop', 'dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",82,6853502
+2015,91,Grateful Dead,4TMHGUX5WI7OOm53PqSDAT,"['blues-rock', 'classic rock', 'cosmic american', 'folk rock', 'jam band', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'southern rock']",71,689789
+2015,92,Garth Brooks,4BclNkZtAUq1YrYNzye3N7,"['contemporary country', 'country', 'country road']",53,606113
+2015,93,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'talent show']",78,4812647
+2015,94,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2015,95,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262683
+2015,96,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1059207
+2015,97,Jeremih,3KV3p5EY4AvKxOlhGHORLg,"['chicago rap', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",82,3295608
+2015,98,T-Wayne,4MIULe6tfg2loNzBy5B9eu,['houston rap'],54,138025
+2015,99,Elle King,3bhu7P5PfngueRHiB9hjcx,['pop rock'],65,307766
+2015,100,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",80,8228652
+2014,1,One Direction,4AK6F7OLvEQ5QYCBNiQWHq,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'talent show']",85,12783784
+2014,2,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673193
+2014,3,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199637
+2014,4,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147445
+2014,5,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']",83,7840587
+2014,6,Iggy Azalea,5yG7ZAZafVaAlMTeBybKAL,"['australian hip hop', 'dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",76,3909116
+2014,7,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"['dance pop', 'pop', 'post-teen pop']",98,27818380
+2014,8,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"['dance pop', 'pop', 'post-teen pop']",84,8442273
+2014,9,Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,"['dance pop', 'pop', 'pop rap']",81,2716284
+2014,10,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932464
+2014,11,Lorde,163tK9Wjr9P9DmM0AVK7lm,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop']",78,4265252
+2014,12,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897779
+2014,13,Sam Smith,2wY79sveU1sp5g7SokKOiI,"['pop', 'post-teen pop']",91,8307967
+2014,14,John Legend,5y2Xq6xcjJb2jVM54GHK3t,"['neo soul', 'pop', 'r&b', 'urban contemporary']",81,4503377
+2014,15,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",83,7344479
+2014,16,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712235
+2014,17,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,"['dance pop', 'pinoy hip hop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",84,6678960
+2014,18,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",88,27254846
+2014,19,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,"['modern rock', 'rock']",92,17968308
+2014,20,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",84,2725450
+2014,21,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930249
+2014,22,5 Seconds Of Summer,5Rl15oVamLq7FbSb0NNBNy,"['boy band', 'dance pop', 'pop', 'post-teen pop']",86,4474856
+2014,23,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262683
+2014,24,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'uk pop']",92,42734353
+2014,25,Pitbull,0TnOYISbd1XYRBk9myaseg,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",83,6824104
+2014,26,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop', 'post-teen pop']",91,20623359
+2014,27,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2014,28,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17457995
+2014,29,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443692
+2014,30,Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'r&b']",81,7217453
+2014,31,Bastille,7EQ0qTo7fWT7DPxmxtSYEc,"['metropopolis', 'modern rock', 'pop']",85,3452554
+2014,32,Avicii,1vCWHaC5f2uS3yhpwWbIA6,"['big room', 'dance pop', 'edm', 'pop', 'tropical house']",87,12930634
+2014,33,MAGIC!,0DxeaLnv6SyYk2DOqkLO8c,"['pop', 'reggae fusion']",71,996350
+2014,34,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,13360421
+2014,35,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2014,36,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",88,19023489
+2014,37,Charli XCX,25uiPmTg16RbhZWAqwLBy5,"['candy pop', 'dance pop', 'edm', 'electropop', 'indie poptimism', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'tropical house', 'uk pop']",78,1522794
+2014,38,Nico & Vinz,0awl5piYwO0CDTHEkCjUhn,"['dance pop', 'pop rap']",65,383555
+2014,39,The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",82,6496143
+2014,40,Eagles,0ECwFtbIWEVNwjlrfc6xoL,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",78,2955399
+2014,41,Shakira,0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",84,15943504
+2014,42,Passenger,0gadJ2b9A4SKsB1RFkBb66,"['neo mellow', 'pop']",76,2110275
+2014,43,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742934
+2014,44,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,"['contemporary country', 'country', 'country road', 'modern country rock', 'redneck']",71,1490404
+2014,45,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,"['dance pop', 'edm', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'tropical house']",85,6315858
+2014,46,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,"['contemporary country', 'country', 'country road', 'modern country rock']",75,1957563
+2014,47,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2014,48,Idina Menzel,73Np75Wv2tju61Eo9Zw4IR,"['broadway', 'christmas', 'hollywood', 'movie tunes', 'show tunes']",71,188859
+2014,49,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']",89,14579916
+2014,50,Calvin Harris,7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",91,16216501
+2014,51,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",80,8228652
+2014,52,Sia,5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'dance pop', 'pop']",89,11441389
+2014,53,Paul McCartney,4STHEaNw4mPZ2tzheohgXB,"['album rock', 'art rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock']",75,2132958
+2014,54,Michael Buble,1GxkXlMwML1oSg5eLPiAz3,"['adult standards', 'canadian pop', 'lounge']",78,3062422
+2014,55,Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,['pop'],85,9704630
+2014,56,Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,"['hip hop', 'pittsburgh rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,8069674
+2014,57,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",69,1837699
+2014,58,Trey Songz,2iojnBLj0qIMiKPvVhLnsH,"['dance pop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap music', 'urban contemporary']",80,4093699
+2014,59,Lady Antebellum,32WkQRZEVKSzVAAYqukAEA,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow']",70,2421934
+2014,60,Garth Brooks,4BclNkZtAUq1YrYNzye3N7,"['contemporary country', 'country', 'country road']",53,606113
+2014,61,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033168
+2014,62,YG,0A0FS04o6zMoto8OKPsDwY,"['cali rap', 'gangster rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",84,1608055
+2014,63,American Authors,0MlOPi3zIDMVrfA9R04Fe3,"['modern rock', 'neo mellow', 'pop', 'pop rock']",70,775651
+2014,64,Tove Lo,4NHQUGzhtTLFvgF5SZesLK,"['dance pop', 'electropop', 'indie poptimism', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'swedish electropop', 'swedish pop', 'swedish synthpop']",78,1932436
+2014,65,Juicy J,5gCRApTajqwbnHHPbr2Fpi,"['crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,1715287
+2014,66,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,"['dance pop', 'electropop', 'pop']",84,8055002
+2014,67,ScHoolboy Q,5IcR3N7QB1j6KBL8eImZ8m,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music', 'underground hip hop']",81,2394491
+2014,68,George Strait,5vngPClqofybhPERIqQMYd,"['contemporary country', 'country', 'country road']",76,1207864
+2014,69,Kid Ink,6KZDXtSj0SzGOV705nNeh3,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']",76,2114976
+2014,70,Paramore,74XFHRwlV6OrjEM0A2NCMF,"['candy pop', 'emo', 'pixie', 'pop emo', 'pop punk']",79,4145825
+2014,71,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,"['contemporary country', 'country', 'country road', 'modern country rock']",74,1744735
+2014,72,Austin Mahone,04abdnqPQe2N4fjztDea6z,"['dance pop', 'pop', 'post-teen pop', 'teen pop', 'viral pop']",68,1471559
+2014,73,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",79,6256797
+2014,74,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']",77,2108039
+2014,75,Snoop Dogg,7hJcb9fa4alzcOq3EaNPoG,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",85,4502618
+2014,76,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2014,77,Aloe Blacc,0id62QV2SZZfvBn9xpmuCl,['r&b'],78,516746
+2014,78,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1059207
+2014,79,Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",78,1643943
+2014,80,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'europop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",81,5931624
+2014,81,Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,"['big room', 'edm', 'pop', 'progressive house', 'tropical house']",86,9693408
+2014,82,2 Chainz,17lzZA2AlOHwCwFALHttmp,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,4392457
+2014,83,Disclosure,6nS5roXSAGhTGr34W6n7Et,"['house', 'pop', 'tropical house', 'uk dance']",82,1561474
+2014,84,Romeo Santos,5lwmRuXgjX8xIwlnauTZIP,"['bachata', 'latin', 'tropical']",87,7711397
+2014,85,A Great Big World,5xKp3UyavIBUsGy3DQdXeF,"['neo mellow', 'piano rock', 'pop rock']",70,323293
+2014,86,Lil Jon,7sfl4Xt5KmfyDs2T3SVSMK,"['atl hip hop', 'crunk', 'dance pop', 'dirty south rap', 'pop rap', 'southern hip hop']",76,798094
+2014,87,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2014,88,DJ Snake,540vIaP2JwjQb9dm3aArA4,"['dance pop', 'edm', 'electronic trap', 'pop', 'tropical house']",85,4438662
+2014,89,Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH,"['garage rock', 'indie rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",85,7681595
+2014,90,Jhene Aiko,5ZS223C6JyBfXasXxrRqOk,"['alternative r&b', 'dance pop', 'deep pop r&b', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'urban contemporary']",78,2225371
+2014,91,Cher,72OaDtakiy6yFqkt4TsiFt,"['dance pop', 'hollywood', 'new wave pop', 'pop']",73,1037265
+2014,92,Becky G,4obzFoKoKRHIphyHzJ35G3,"['latin viral pop', 'pop', 'reggaeton']",85,4614525
+2014,93,Elton John,3PhoLpVuITZKcymswpck5b,"['glam rock', 'mellow gold', 'piano rock', 'soft rock']",82,2623859
+2014,94,Bob Marley And The Wailers,2QsynagSdAqZj3U9HgDzjD,"['reggae', 'roots reggae']",82,6527624
+2014,95,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"['contemporary country', 'country', 'country road', 'pop rock']",74,1822938
+2014,96,MKTO,2l35CQqtYRh3d8ZIiBep4v,"['australian pop', 'dance pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'viral pop']",73,621802
+2014,97,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'talent show']",78,4812647
+2014,98,Sara Bareilles,2Sqr0DXoaYABbjBo9HaMkM,"['acoustic pop', 'dance pop', 'folk-pop', 'hollywood', 'lilith', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'show tunes', 'viral pop']",75,1125828
+2014,99,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,"['dance pop', 'europop', 'pop', 'post-teen pop', 'r&b']",80,4107959
+2014,100,Childish Gambino,73sIBHcqh3Z3NyqHKZ7FOL,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",82,4818980
+2013,1,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop', 'post-teen pop']",91,20623361
+2013,2,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147446
+2013,3,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']",83,7840587
+2013,4,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2013,5,Macklemore & Ryan Lewis,5BcAKTbp20cv7tC5VqPFoC,"['dance pop', 'pop', 'pop rap']",77,2315015
+2013,6,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107934
+2013,7,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,"['modern rock', 'rock']",92,17968308
+2013,8,One Direction,4AK6F7OLvEQ5QYCBNiQWHq,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'talent show']",85,12783786
+2013,9,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"['dance pop', 'pop', 'post-teen pop']",84,8442273
+2013,10,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17458001
+2013,11,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712242
+2013,12,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",88,27254847
+2013,13,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897779
+2013,14,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673193
+2013,15,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",84,2725450
+2013,16,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2013,17,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932466
+2013,18,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742934
+2013,19,Robin Thicke,0ZrpamOxcZybMHGg1AYtHP,"['dance pop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",68,1390024
+2013,20,The Lumineers,16oZKvXb6WkQlVAjwo2Wbg,"['folk-pop', 'indie folk', 'indie pop', 'modern rock', 'stomp and holler']",78,3032392
+2013,21,Lil Wayne,55Aa2cqylxrFIXC767Z865,"['hip hop', 'new orleans rap', 'pop', 'pop rap', 'rap', 'trap music']",91,7686851
+2013,22,Mumford & Sons,3gd8FJtBJtkRxdfbTu19U2,"['neo mellow', 'stomp and holler', 'uk americana']",80,4970823
+2013,23,Baauer,25fqWEebq6PoiGQIHIrdtv,"['bass trap', 'brostep', 'edm', 'electro house', 'electronic trap', 'vapor twitch']",61,137516
+2013,24,Lorde,163tK9Wjr9P9DmM0AVK7lm,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop']",78,4265252
+2013,25,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262686
+2013,26,Phillip Phillips,6p5JxpTc7USNnBnLzctyd4,"['folk-pop', 'neo mellow', 'pop rock']",64,622609
+2013,27,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']",89,14579916
+2013,28,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2013,29,Bon Jovi,58lV9VcRSjABbAbfWS6skp,"['glam metal', 'rock']",80,5424395
+2013,30,Pitbull,0TnOYISbd1XYRBk9myaseg,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",83,6824104
+2013,31,Daft Punk,4tZwfgrHOc3mvqYlEYSvVi,"['electro', 'electronic', 'filter house']",82,5149116
+2013,32,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,"['conscious hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']",90,12246547
+2013,33,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930249
+2013,34,Hunter Hayes,7H6dkUChT5EoOQtUVMg4cN,"['contemporary country', 'country', 'country road', 'modern country rock', 'neo mellow', 'pop', 'post-teen pop']",68,831354
+2013,35,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,"['hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",80,6054023
+2013,36,fun.,5nCi3BB41mBaMH9gfr6Su0,"['metropopolis', 'modern rock', 'pop', 'pop rap']",71,3200249
+2013,37,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199637
+2013,38,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'europop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",81,5931624
+2013,39,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,13360421
+2013,40,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2013,41,Avicii,1vCWHaC5f2uS3yhpwWbIA6,"['big room', 'dance pop', 'edm', 'pop', 'tropical house']",87,12930634
+2013,42,PSY,2dd5mrQZvg6SmahdgVKDzh,"['dance pop', 'k-hop', 'k-pop']",61,1020813
+2013,43,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257548
+2013,44,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"['dance pop', 'pop', 'post-teen pop']",98,27818388
+2013,45,Ke$ha,6LqNN22kT3074XbTVUrhzX,"['dance pop', 'electropop', 'pop', 'pop rap', 'post-teen pop']",79,4453723
+2013,46,2 Chainz,17lzZA2AlOHwCwFALHttmp,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,4392457
+2013,47,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'talent show']",78,4812647
+2013,48,Adele,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'uk pop']",85,15099178
+2013,49,Michael Buble,1GxkXlMwML1oSg5eLPiAz3,"['adult standards', 'canadian pop', 'lounge']",78,3062422
+2013,50,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"['contemporary country', 'country', 'country road']",76,2656923
+2013,51,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443692
+2013,52,will.i.am,085pc2PYOi8bGKj0PNjekA,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",76,2542434
+2013,53,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,"['dance pop', 'electropop', 'pop']",84,8055002
+2013,54,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'uk pop']",92,42734356
+2013,55,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,"['conscious hip hop', 'nc hip hop', 'pop rap', 'rap']",91,8059421
+2013,56,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']",77,2108039
+2013,57,The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",82,6496143
+2013,58,The Band Perry,75FnCoo4FBxH5K1Rrx0k5A,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",62,918198
+2013,59,Miguel,360IAlyVv4PCEVjgyMZrxK,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap', 'urban contemporary']",82,2209447
+2013,60,Lady Antebellum,32WkQRZEVKSzVAAYqukAEA,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow']",70,2421934
+2013,61,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,"['emo', 'modern rock', 'pop punk']",84,6254661
+2013,62,Darius Rucker,7FY5V3XMwlNBPitEjXowHQ,"['contemporary country', 'country', 'country road', 'modern country rock', 'pop rock']",70,1187910
+2013,63,Anna Kendrick,6xfqnpe2HnLVUaYXs2F8YS,"['hollywood', 'show tunes']",68,219161
+2013,64,AWOLNATION,4njdEjTnLfcGImKZu1iSrz,"['la indie', 'modern alternative rock', 'modern rock', 'stomp pop']",68,1364664
+2013,65,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2013,66,Future,1RyvyyTE3xzB2ZywiAwp0i,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",90,7733683
+2013,67,Flo Rida,0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop']",81,6935124
+2013,68,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,"['contemporary country', 'country', 'country road', 'modern country rock']",75,1957563
+2013,69,Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,"['hip hop', 'pittsburgh rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,8069674
+2013,70,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,"['dance pop', 'edm', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'tropical house']",85,6315868
+2013,71,Calvin Harris,7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",91,16216502
+2013,72,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",69,1837699
+2013,73,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",83,7344482
+2013,74,T.I.,4OBJLual30L7gRl5UkeRcT,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,2793940
+2013,75,Capital Cities,4gwpcMTbLWtBUlOijbVpuu,"['alternative dance', 'indie pop', 'metropopolis', 'modern rock', 'shimmer pop']",66,610428
+2013,76,A$AP Rocky,13ubrt8QOOCPljQ2FL1Kca,"['east coast hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,5242826
+2013,77,George Strait,5vngPClqofybhPERIqQMYd,"['contemporary country', 'country', 'country road']",76,1207864
+2013,78,Depeche Mode,762310PdDnwsDxAQxzQkfX,"['dance rock', 'new romantic', 'new wave', 'permanent wave', 'synthpop']",75,2125046
+2013,79,Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,"['dance pop', 'pop', 'pop rap']",81,2716288
+2013,80,Little Big Town,3CygdxquGHurS7f9LjNLkv,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",67,1382788
+2013,81,Of Monsters And Men,4dwdTW1Lfiq0cM8nBAqIIz,"['chamber pop', 'folk-pop', 'indie folk', 'indie pop', 'metropopolis', 'modern rock', 'pop', 'stomp and holler']",72,2511246
+2013,82,Rod Stewart,2y8Jo9CKhJvtfeKOsYzRdT,"['adult standards', 'mellow gold', 'rock', 'soft rock']",74,1296223
+2013,83,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,"['dance pop', 'europop', 'pop', 'post-teen pop', 'r&b']",80,4107959
+2013,84,Swedish House Mafia,1h6Cn3P4NGzXbaXidqURXs,"['big room', 'dance pop', 'edm', 'electro house', 'pop', 'progressive electro house']",70,2775897
+2013,85,Wanz,56xTxG4nQMAs1GW9kvn0uA,"['hip hop', 'alternative hip hop', 'r&b', 'pop']",64,831
+2013,86,Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",80,4175291
+2013,87,Brad Paisley,13YmWQJFwgZrd4bf5IjMY4,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1449044
+2013,88,Zedd,2qxJFvFYMEDqd7ui6kSAcq,"['complextro', 'dance pop', 'edm', 'german techno', 'pop', 'post-teen pop', 'tropical house']",86,4161075
+2013,89,Wale,67nwj3Y5sZQLl72VNUHEYE,"['dance pop', 'gangster rap', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",75,1953490
+2013,90,Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,"['dance pop', 'pop', 'r&b', 'urban contemporary']",79,4141854
+2013,91,Muse,12Chz98pHFMPJEknJQMWvI,"['modern rock', 'permanent wave', 'piano rock', 'post-grunge', 'rock']",80,4729214
+2013,92,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",79,6256797
+2013,93,Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,['pop'],85,9704636
+2013,94,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop', 'rap']",90,15399480
+2013,95,Paul McCartney,4STHEaNw4mPZ2tzheohgXB,"['album rock', 'art rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock']",75,2132958
+2013,96,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,"['contemporary country', 'country', 'country road', 'modern country rock']",72,958357
+2013,97,Randy Houser,56x8mYvS3cyDGAi8N2FxbB,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock', 'redneck']",67,519499
+2013,98,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['dance pop', 'edm', 'pop']",90,18287383
+2013,99,Icona Pop,1VBflYyxBhnDc9uVib98rw,"['candy pop', 'dance pop', 'electropop', 'metropopolis', 'pop', 'swedish electropop', 'swedish synthpop']",69,614153
+2013,100,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2012,1,Adele,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'uk pop']",85,15099179
+2012,2,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2012,3,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147446
+2012,4,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712250
+2012,5,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",88,27254848
+2012,6,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930249
+2012,7,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673193
+2012,8,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17458009
+2012,9,LMFAO,3sgFRtyBnxXD5ESfmbK4dl,"['dance pop', 'edm', 'pop', 'pop rap']",68,3076234
+2012,10,One Direction,4AK6F7OLvEQ5QYCBNiQWHq,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'talent show']",85,12783786
+2012,11,Flo Rida,0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop']",81,6935124
+2012,12,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",88,19023489
+2012,13,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2012,14,fun.,5nCi3BB41mBaMH9gfr6Su0,"['metropopolis', 'modern rock', 'pop', 'pop rap']",71,3200249
+2012,15,Carly Rae Jepsen,6sFIWsNpZYqfjUpaCgueju,"['canadian pop', 'dance pop', 'electropop', 'indie poptimism', 'pop', 'post-teen pop', 'uk pop']",75,3298467
+2012,16,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'talent show']",78,4812647
+2012,17,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262687
+2012,18,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897779
+2012,19,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop', 'post-teen pop']",91,20623361
+2012,20,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['dance pop', 'edm', 'pop']",90,18287383
+2012,21,Lil Wayne,55Aa2cqylxrFIXC767Z865,"['hip hop', 'new orleans rap', 'pop', 'pop rap', 'rap', 'trap music']",91,7686851
+2012,22,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443692
+2012,23,Madonna,6tbjWDEIzxoDsBA1FuhfPW,"['dance pop', 'europop', 'pop', 'pop rock']",78,2962421
+2012,24,Gotye,2AsusXITU8P25dlRNhcAbG,['australian pop'],68,2134812
+2012,25,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']",77,2108039
+2012,26,Pitbull,0TnOYISbd1XYRBk9myaseg,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",83,6824104
+2012,27,Usher,23zg3TcAtWQy7J6upgbUnj,"['atl hip hop', 'dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",82,6853502
+2012,28,Lady Antebellum,32WkQRZEVKSzVAAYqukAEA,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow']",70,2421934
+2012,29,Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,"['hip hop', 'pittsburgh rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,8069674
+2012,30,Roger Waters,40DqL6Tv84cKT2pH2NMs9r,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'rock', 'symphonic rock']",57,722779
+2012,31,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257548
+2012,32,Michael Buble,1GxkXlMwML1oSg5eLPiAz3,"['adult standards', 'canadian pop', 'lounge']",78,3062422
+2012,33,Mumford & Sons,3gd8FJtBJtkRxdfbTu19U2,"['neo mellow', 'stomp and holler', 'uk americana']",80,4970823
+2012,34,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,"['contemporary country', 'country', 'country road', 'modern country rock']",75,1957563
+2012,35,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932471
+2012,36,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2012,37,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2012,38,Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,"['dance pop', 'pop', 'r&b', 'urban contemporary']",78,3958121
+2012,39,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107934
+2012,40,The Wanted,2NhdGz9EDv2FeUw6udu2g1,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",68,1739856
+2012,41,Skrillex,5he5w2lnU9x7JFhnwcekXX,"['brostep', 'complextro', 'edm', 'electro']",82,7107051
+2012,42,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,"['contemporary country', 'country', 'country road']",71,1046374
+2012,43,Train,3FUY2gzHeIiaesXtOAdB7A,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']",76,2720811
+2012,44,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2012,45,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2012,46,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",87,12086305
+2012,47,Tyga,5LHRHt1k9lMyONurDHEdrp,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,4714964
+2012,48,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199637
+2012,49,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,"['dance pop', 'edm', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'tropical house']",85,6315868
+2012,50,Calvin Harris,7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",91,16216502
+2012,51,The Black Keys,7mnBLXK823vNxN3UWB7Gfz,"['alternative rock', 'blues-rock', 'garage rock', 'indie rock', 'modern blues rock', 'modern rock', 'punk blues', 'rock']",76,2743679
+2012,52,Selena Gomez & The Scene,6dJeKm76NjfXBNTpHmOhfO,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",70,3853633
+2012,53,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,13360421
+2012,54,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742934
+2012,55,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"['contemporary country', 'country', 'country road']",76,2656923
+2012,56,PSY,2dd5mrQZvg6SmahdgVKDzh,"['dance pop', 'k-hop', 'k-pop']",61,1020813
+2012,57,2 Chainz,17lzZA2AlOHwCwFALHttmp,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,4392457
+2012,58,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",69,1837699
+2012,59,Jason Mraz,4phGZZrJZRo4ElhRtViYdl,"['acoustic pop', 'neo mellow', 'pop', 'pop rock', 'viral pop']",80,4296295
+2012,60,Big Sean,0c173mlxpT3dSFRgMO8XPh,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']",84,5970142
+2012,61,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,"['conscious hip hop', 'nc hip hop', 'pop rap', 'rap']",91,8059423
+2012,62,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"['contemporary country', 'country', 'country road', 'pop rock']",74,1822938
+2012,63,Nickelback,6deZN1bslXzeGvOLaLMOIF,"['alternative metal', 'canadian pop', 'canadian rock', 'nu metal', 'post-grunge']",78,3505710
+2012,64,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",79,6256797
+2012,65,Trey Songz,2iojnBLj0qIMiKPvVhLnsH,"['dance pop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap music', 'urban contemporary']",80,4093699
+2012,66,Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,"['chamber pop', 'dance pop', 'folk-pop', 'pop', 'rawstyle', 'uk alternative pop']",79,4431689
+2012,67,Little Big Town,3CygdxquGHurS7f9LjNLkv,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",67,1382788
+2012,68,The Band Perry,75FnCoo4FBxH5K1Rrx0k5A,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",62,918198
+2012,69,Gym Class Heroes,4IJczjB0fJ04gs4uvP0Fli,"['dance pop', 'emo', 'pop punk', 'pop rap']",68,957046
+2012,70,Foster The People,7gP3bB2nilZXLfPHJhMdvc,"['indie pop', 'indie rock', 'modern rock', 'pop', 'rock']",77,2478932
+2012,71,Neon Trees,0RpddSzUHfncUWNJXKOsjy,"['indie pop', 'modern rock', 'neo mellow', 'pop', 'pop punk', 'pop rock', 'post-teen pop']",66,719954
+2012,72,Lionel Richie,3gMaNLQm7D9MornNILzdSl,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm', 'soft rock']",73,1184379
+2012,73,Hunter Hayes,7H6dkUChT5EoOQtUVMg4cN,"['contemporary country', 'country', 'country road', 'modern country rock', 'neo mellow', 'pop', 'post-teen pop']",68,831354
+2012,74,Jessie J,2gsggkzM5R49q6jpPvazou,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'uk pop', 'viral pop']",75,5831102
+2012,75,Snoop Dogg,7hJcb9fa4alzcOq3EaNPoG,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",85,4502618
+2012,76,Van Halen,2cnMpRsOVqtPMfq7YiFE6K,"['album rock', 'classic rock', 'hard rock', 'metal', 'rock']",75,2314744
+2012,77,Alex Clare,5Tf4EH8tDvznnjULcFxkIl,['modern alternative rock'],63,620770
+2012,78,Dave Matthews Band,2TI7qyDE0QfyOlnbtfDo7L,"['jam band', 'neo mellow', 'pop rock']",71,1015245
+2012,79,Shakira,0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",84,15943504
+2012,80,Young Jeezy,4yBK75WVCQXej1p04GWqxH,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",74,1236176
+2012,81,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'europop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",81,5931624
+2012,82,Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,['pop'],85,9704638
+2012,83,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,"['contemporary country', 'country', 'country road', 'modern country rock']",72,958357
+2012,84,Kimbra,6hk7Yq1DU9QcCCrz9uc0Ti,"['art pop', 'bergen indie', 'electropop', 'folk-pop', 'nz pop']",68,307985
+2012,85,Rick Ross,1sBkRIssrMs1AbVkOJbc7a,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,3051671
+2012,86,Mary J. Blige,1XkoF8ryArs86LZvFOkbyr,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",72,1807703
+2012,87,Kip Moore,2hJPr4lk7Q8SSvCVBl9fWM,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",68,672314
+2012,88,B.o.B,5ndkK3dpZLKtBklKjxNQwT,"['atl hip hop', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop']",76,1525934
+2012,89,Ne-Yo,21E3waRsmPlU7jZsS13rcj,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",81,4436379
+2012,90,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,"['contemporary country', 'country', 'country road', 'modern country rock']",74,1744735
+2012,91,Andrea Bocelli,3EA9hVIzKfFiQI0Kikz2wo,"['classical tenor', 'operatic pop']",72,984349
+2012,92,Brad Paisley,13YmWQJFwgZrd4bf5IjMY4,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1449044
+2012,93,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,"['contemporary country', 'country', 'country road', 'modern country rock']",68,441230
+2012,94,The Lumineers,16oZKvXb6WkQlVAjwo2Wbg,"['folk-pop', 'indie folk', 'indie pop', 'modern rock', 'stomp and holler']",78,3032392
+2012,95,Phillip Phillips,6p5JxpTc7USNnBnLzctyd4,"['folk-pop', 'neo mellow', 'pop rock']",64,622609
+2012,96,Miguel,360IAlyVv4PCEVjgyMZrxK,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap', 'urban contemporary']",82,2209447
+2012,97,Gavin DeGraw,5DYAABs8rkY9VhwtENoQCz,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']",69,852203
+2012,98,Glee Cast,0SCbttzoZTnLFebDYmAWCm,"['hollywood', 'pop', 'post-teen pop', 'viral pop']",76,1026208
+2012,99,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,"['dance pop', 'electropop', 'pop']",84,8055002
+2012,100,John Mayer,0hEurMDQu99nJRq8pTxO14,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",87,3628782
+2011,1,Adele,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'uk pop']",85,15099181
+2011,2,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2011,3,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673193
+2011,4,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262691
+2011,5,Lil Wayne,55Aa2cqylxrFIXC767Z865,"['hip hop', 'new orleans rap', 'pop', 'pop rap', 'rap', 'trap music']",91,7686851
+2011,6,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop', 'post-teen pop']",91,20623361
+2011,7,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930256
+2011,8,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147451
+2011,9,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",88,27254848
+2011,10,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443692
+2011,11,The Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,"['dance pop', 'pop', 'pop rap']",79,3365730
+2011,12,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932471
+2011,13,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2011,14,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'europop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",81,5931624
+2011,15,Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,"['hip hop', 'pittsburgh rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,8069674
+2011,16,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107934
+2011,17,Pitbull,0TnOYISbd1XYRBk9myaseg,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",83,6824107
+2011,18,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2011,19,Ke$ha,6LqNN22kT3074XbTVUrhzX,"['dance pop', 'electropop', 'pop', 'pop rap', 'post-teen pop']",79,4453723
+2011,20,Lady Antebellum,32WkQRZEVKSzVAAYqukAEA,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow']",70,2421934
+2011,21,Usher,23zg3TcAtWQy7J6upgbUnj,"['atl hip hop', 'dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",82,6853502
+2011,22,U2,51Blml2LZPmy7TTiAg47vQ,"['irish rock', 'permanent wave', 'rock']",81,4715174
+2011,23,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712252
+2011,24,LMFAO,3sgFRtyBnxXD5ESfmbK4dl,"['dance pop', 'edm', 'pop', 'pop rap']",68,3076234
+2011,25,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199644
+2011,26,Bon Jovi,58lV9VcRSjABbAbfWS6skp,"['glam metal', 'rock']",80,5424400
+2011,27,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",80,8228652
+2011,28,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2011,29,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2011,30,Cee Lo Green,5nLYd9ST4Cnwy6NHaCxbj8,['atl hip hop'],70,331442
+2011,31,Selena Gomez & The Scene,6dJeKm76NjfXBNTpHmOhfO,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",70,3853633
+2011,32,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2011,33,Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,['pop'],85,9704638
+2011,34,Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",80,4175298
+2011,35,The Band Perry,75FnCoo4FBxH5K1Rrx0k5A,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",62,918198
+2011,36,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['dance pop', 'edm', 'pop']",90,18287383
+2011,37,Take That,1XgFuvRd7r5g0h844A5ZUQ,"['boy band', 'dance pop', 'europop', 'neo mellow', 'pop']",68,612420
+2011,38,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"['contemporary country', 'country', 'country road', 'pop rock']",74,1822938
+2011,39,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",87,12086307
+2011,40,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17458009
+2011,41,Shakira,0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",84,15943504
+2011,42,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",88,19023489
+2011,43,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",79,6256797
+2011,44,Foster The People,7gP3bB2nilZXLfPHJhMdvc,"['indie pop', 'indie rock', 'modern rock', 'pop', 'rock']",77,2478932
+2011,45,Brad Paisley,13YmWQJFwgZrd4bf5IjMY4,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1449044
+2011,46,Susan Boyle,1qAuetfG6mhtDgsVIffWQc,['operatic pop'],55,116628
+2011,47,Mumford & Sons,3gd8FJtBJtkRxdfbTu19U2,"['neo mellow', 'stomp and holler', 'uk americana']",80,4970823
+2011,48,Akon,0z4gvV4rjIZ9wHck67ucSV,"['dance pop', 'pop rap', 'r&b']",81,1866458
+2011,49,Trey Songz,2iojnBLj0qIMiKPvVhLnsH,"['dance pop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap music', 'urban contemporary']",80,4093699
+2011,50,Lupe Fiasco,01QTIT5P1pFP3QnnFSdsJf,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",71,1132361
+2011,51,Glee Cast,0SCbttzoZTnLFebDYmAWCm,"['hollywood', 'pop', 'post-teen pop', 'viral pop']",76,1026208
+2011,52,Roger Waters,40DqL6Tv84cKT2pH2NMs9r,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'rock', 'symphonic rock']",57,722779
+2011,53,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",83,7344485
+2011,54,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033168
+2011,55,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897779
+2011,56,Nelly,2gBjLmx6zQnFGQJCAQpRgw,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",77,1231479
+2011,57,Sugarland,0hYxQe3AK5jBPCr5MumLHD,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock', 'pop rock']",64,906216
+2011,58,Michael Buble,1GxkXlMwML1oSg5eLPiAz3,"['adult standards', 'canadian pop', 'lounge']",78,3062422
+2011,59,Keri Hilson,63wjoROpeh5f11Qm93UiJ1,"['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",68,1000686
+2011,60,50 Cent,3q7HBObVc0L8jNeTe5Gofh,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",83,5230248
+2011,61,Bad Meets Evil,77IURH5NC56Jn09QHi76is,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",63,748717
+2011,62,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",69,1837699
+2011,63,The Script,3AQRLZ9PuTAozP28Skbq8V,"['celtic rock', 'dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",79,4963870
+2011,64,Kid Rock,7dOBabd5O4CvKrg4iriHTM,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",71,813260
+2011,65,Miguel,360IAlyVv4PCEVjgyMZrxK,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap', 'urban contemporary']",82,2209447
+2011,66,Taio Cruz,6MF9fzBmfXghAz953czmBC,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",72,1485652
+2011,67,Jeremih,3KV3p5EY4AvKxOlhGHORLg,"['chicago rap', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",82,3295608
+2011,68,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,"['contemporary country', 'country', 'country road']",71,1046374
+2011,69,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,"['contemporary country', 'country', 'country road', 'modern country rock']",75,1957563
+2011,70,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742934
+2011,71,Don Omar,33ScadVnbm2X8kkUqOkC6Z,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",80,3384119
+2011,72,Josh Groban,6cXMpsP9x0SH4kFfMyVezF,"['adult standards', 'christmas', 'operatic pop']",66,414191
+2011,73,Waka Flocka Flame,6f4XkbvYlXMH0QgVRzW0sM,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",71,1527535
+2011,74,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"['contemporary country', 'country', 'country road']",76,2656923
+2011,75,Ludacris,3ipn9JLAPI5GUEo4y4jcoi,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",78,1592859
+2011,76,Hot Chelle Rae,6jTnHxhb6cDCaCu4rdvsQ0,"['dance pop', 'neo mellow', 'neon pop punk', 'pop', 'pop punk', 'pop rap', 'pop rock', 'post-teen pop', 'viral pop']",65,380216
+2011,77,Thompson Square,0Bvs8yPjrQSbmVIRqSg1Sp,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'modern country rock']",57,274762
+2011,78,Far*East Movement,698hF4vcwHwPy8ltmXermq,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",68,830684
+2011,79,Christina Perri,7H55rcKCfwqkyDFH9wpKM6,"['dance pop', 'neo mellow', 'pop', 'post-teen pop', 'viral pop']",75,1876263
+2011,80,Foo Fighters,7jy3rLJdDQY21OgRLCZ9sD,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",80,6092295
+2011,81,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,"['contemporary country', 'country', 'country road', 'modern country rock']",68,441230
+2011,82,Kelly Rowland,3AuMNF8rQAKOzjYppFNAoB,"['atl hip hop', 'dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",72,1783890
+2011,83,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,"['dance pop', 'europop', 'pop', 'post-teen pop', 'r&b']",80,4107959
+2011,84,Diddy - Dirty Money,2QYEvpsWUOjqaYuxDPTCmV,"['hip pop', 'r&b', 'urban contemporary']",58,92467
+2011,85,Chris Young,4BYxqVkZyFjtik7crYLg5Q,"['contemporary country', 'country', 'country road', 'modern country rock']",72,1386029
+2011,86,The Beatles,3WrFJ7ztbogyGnTHbHJFl2,"['british invasion', 'merseybeat', 'psychedelic rock', 'rock']",88,11606994
+2011,87,Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,"['chamber pop', 'dance pop', 'folk-pop', 'pop', 'rawstyle', 'uk alternative pop']",79,4431689
+2011,88,Train,3FUY2gzHeIiaesXtOAdB7A,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']",76,2720812
+2011,89,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,"['dance pop', 'pinoy hip hop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",84,6678960
+2011,90,Billy Currington,1By9QBFnjZAoI83BZppHlt,"['contemporary country', 'country', 'country road', 'modern country rock']",71,1315768
+2011,91,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'talent show']",78,4812647
+2011,92,Journey,0rvjqX7ttXeg3mTy8Xscbt,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",76,2002961
+2011,93,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,13360421
+2011,94,George Strait,5vngPClqofybhPERIqQMYd,"['contemporary country', 'country', 'country road']",76,1207864
+2011,95,Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5,"['alternative rock', 'funk metal', 'permanent wave', 'post-grunge', 'rock']",86,10188418
+2011,96,Dr. Dre,6DPYiyq5kWVQS4RGwxzPC7,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",81,4138939
+2011,97,T.I.,4OBJLual30L7gRl5UkeRcT,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,2793940
+2011,98,Mike Posner,2KsP6tYLJlTBvSUxnwlVWa,"['dance pop', 'pop', 'pop rap']",75,821976
+2011,99,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257553
+2011,100,DJ Khaled,0QHgL1lAIqAw0HtD7YldmP,"['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",79,3802250
+2010,1,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262691
+2010,2,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147453
+2010,3,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932471
+2010,4,Lady Antebellum,32WkQRZEVKSzVAAYqukAEA,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow']",70,2421934
+2010,5,Ke$ha,6LqNN22kT3074XbTVUrhzX,"['dance pop', 'electropop', 'pop', 'pop rap', 'post-teen pop']",79,4453723
+2010,6,Usher,23zg3TcAtWQy7J6upgbUnj,"['atl hip hop', 'dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",82,6853502
+2010,7,The Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,"['dance pop', 'pop', 'pop rap']",79,3365730
+2010,8,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",88,27254851
+2010,9,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096453
+2010,10,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712255
+2010,11,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673193
+2010,12,Susan Boyle,1qAuetfG6mhtDgsVIffWQc,['operatic pop'],55,116628
+2010,13,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,"['dance pop', 'pinoy hip hop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",84,6678960
+2010,14,B.o.B,5ndkK3dpZLKtBklKjxNQwT,"['atl hip hop', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop']",76,1525934
+2010,15,Taio Cruz,6MF9fzBmfXghAz953czmBC,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",72,1485652
+2010,16,Train,3FUY2gzHeIiaesXtOAdB7A,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']",76,2720812
+2010,17,Ludacris,3ipn9JLAPI5GUEo4y4jcoi,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",78,1592859
+2010,18,Trey Songz,2iojnBLj0qIMiKPvVhLnsH,"['dance pop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap music', 'urban contemporary']",80,4093699
+2010,19,Michael Buble,1GxkXlMwML1oSg5eLPiAz3,"['adult standards', 'canadian pop', 'lounge']",78,3062422
+2010,20,Lil Wayne,55Aa2cqylxrFIXC767Z865,"['hip hop', 'new orleans rap', 'pop', 'pop rap', 'rap', 'trap music']",91,7686851
+2010,21,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,"['hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",80,6054023
+2010,22,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop', 'post-teen pop']",91,20623361
+2010,23,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257553
+2010,24,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"['dance pop', 'pop', 'post-teen pop']",84,8442273
+2010,25,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2010,26,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742934
+2010,27,Adam Lambert,6prmLEyn4LfHlD9NnXWlf7,"['dance pop', 'idol', 'pop', 'post-teen pop']",65,862867
+2010,28,Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,['pop'],85,9704638
+2010,29,Young Money,5OrB6Jhhrl9y2PK0pSV4VP,"['dirty south rap', 'gangster rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",66,1221999
+2010,30,Andrea Bocelli,3EA9hVIzKfFiQI0Kikz2wo,"['classical tenor', 'operatic pop']",72,984349
+2010,31,Iyaz,5tKXB9uuebKE34yowVaU3C,"['dance pop', 'pop rap', 'post-teen pop']",68,431457
+2010,32,Owl City,07QEuhtrNmmZ0zEcqE9SF6,"['modern rock', 'pop', 'pop punk', 'pop rock', 'post-teen pop']",72,1677485
+2010,33,John Mayer,0hEurMDQu99nJRq8pTxO14,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",87,3628782
+2010,34,Mike Posner,2KsP6tYLJlTBvSUxnwlVWa,"['dance pop', 'pop', 'pop rap']",75,821976
+2010,35,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",92,14930256
+2010,36,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2010,37,Glee Cast,0SCbttzoZTnLFebDYmAWCm,"['hollywood', 'pop', 'post-teen pop', 'viral pop']",76,1026208
+2010,38,Jay Sean,4pADjHPWyrlAF0FA7joK2H,"['dance pop', 'desi', 'indian pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",69,851101
+2010,39,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']",89,14579928
+2010,40,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",69,1837699
+2010,41,The Script,3AQRLZ9PuTAozP28Skbq8V,"['celtic rock', 'dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",79,4963870
+2010,42,Timbaland,5Y5TRrQiqgUO4S36tzjIRZ,"['dance pop', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'urban contemporary']",76,1326332
+2010,43,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",83,7344485
+2010,44,Snoop Dogg,7hJcb9fa4alzcOq3EaNPoG,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",85,4502618
+2010,45,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['dance pop', 'edm', 'pop']",90,18287383
+2010,46,Sade,47zz7sob9NUcODy0BTDvKx,"['british soul', 'neo soul', 'r&b']",72,1486543
+2010,47,Sugarland,0hYxQe3AK5jBPCr5MumLHD,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock', 'pop rock']",64,906216
+2010,48,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",80,8228652
+2010,49,Kings Of Leon,2qk9voo8llSGYcZ6xrBzKx,"['garage rock', 'indie rock', 'modern rock', 'rock']",78,3762229
+2010,50,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199644
+2010,51,Daughtry,5P5FTygHyx2G57oszR3Wot,"['alternative metal', 'neo mellow', 'nu metal', 'pop rock', 'post-grunge']",68,1105947
+2010,52,Pitbull,0TnOYISbd1XYRBk9myaseg,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",83,6824107
+2010,53,Darius Rucker,7FY5V3XMwlNBPitEjXowHQ,"['contemporary country', 'country', 'country road', 'modern country rock', 'pop rock']",70,1187910
+2010,54,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2010,55,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443692
+2010,56,Nickelback,6deZN1bslXzeGvOLaLMOIF,"['alternative metal', 'canadian pop', 'canadian rock', 'nu metal', 'post-grunge']",78,3505710
+2010,57,Kris Allen,2zwHaEmXxX6DTv4i8ajNCM,"['acoustic pop', 'idol', 'indiecoustica', 'neo mellow', 'pop rock']",48,107040
+2010,58,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107937
+2010,59,Mary J. Blige,1XkoF8ryArs86LZvFOkbyr,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",72,1807703
+2010,60,Nelly,2gBjLmx6zQnFGQJCAQpRgw,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",77,1231479
+2010,61,La Roux,3K2zB87GZv1krx031en5VA,"['alternative dance', 'dance pop', 'electropop', 'indietronica', 'neo-synthpop', 'new rave', 'pop']",62,418927
+2010,62,Travie McCoy,7o9Nl7K1Al6NNAHX6jn6iG,['pop rap'],66,217369
+2010,63,Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",87,2653640
+2010,64,Brad Paisley,13YmWQJFwgZrd4bf5IjMY4,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1449044
+2010,65,Monica,6nzxy2wXs6tLgzEtqOkEi2,"['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",65,1091818
+2010,66,Casting Crowns,6eJqAWJdd8JhAN1pQGie4r,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",68,903533
+2010,67,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17458009
+2010,68,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['contemporary country', 'country', 'country road']",79,3897786
+2010,69,Josh Turner,7vCtweS8UVAXTyau2j0rDT,"['contemporary country', 'country', 'country road', 'modern country rock']",68,1269217
+2010,70,Colbie Caillat,6aZyMrc4doVtZyKNilOmwu,"['acoustic pop', 'dance pop', 'folk-pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",74,1447925
+2010,71,3OH!3,0FWzNDaEu9jdgcYTbcOa4F,"['dance pop', 'electropowerpop', 'emo', 'pop punk', 'pop rap', 'post-teen pop']",66,505927
+2010,72,Billy Currington,1By9QBFnjZAoI83BZppHlt,"['contemporary country', 'country', 'country road', 'modern country rock']",71,1315768
+2010,73,Shakira,0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",84,15943504
+2010,74,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"['contemporary country', 'country', 'country road']",75,4151944
+2010,75,Jack Johnson,3GBPw9NK25X1Wt2OUvOwY3,['neo mellow'],80,2368021
+2010,76,Orianthi,0yNy8fi1yBBq526E6mx4Zs,['candy pop'],46,42960
+2010,77,will.i.am,085pc2PYOi8bGKj0PNjekA,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",76,2542434
+2010,78,Easton Corbin,070kGpqtESdDsLb3gdMIyx,"['contemporary country', 'country', 'country road', 'modern country rock', 'redneck']",63,500512
+2010,79,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033168
+2010,80,Far*East Movement,698hF4vcwHwPy8ltmXermq,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",68,830684
+2010,81,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"['contemporary country', 'country', 'country road', 'pop rock']",74,1822938
+2010,82,Paramore,74XFHRwlV6OrjEM0A2NCMF,"['candy pop', 'emo', 'pixie', 'pop emo', 'pop punk']",79,4145827
+2010,83,Norah Jones,2Kx7MNY7cI1ENniW7vT30N,"['adult standards', 'folk-pop', 'neo mellow', 'vocal jazz']",76,1804208
+2010,84,Rick Ross,1sBkRIssrMs1AbVkOJbc7a,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,3051671
+2010,85,T.I.,4OBJLual30L7gRl5UkeRcT,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,2793940
+2010,86,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"['contemporary country', 'country', 'country road']",76,2656923
+2010,87,Neon Trees,0RpddSzUHfncUWNJXKOsjy,"['indie pop', 'modern rock', 'neo mellow', 'pop', 'pop punk', 'pop rock', 'post-teen pop']",66,719954
+2010,88,Reba McEntire,02rd0anEWfMtF7iMku9uor,"['contemporary country', 'country', 'country dawn', 'nashville sound']",64,846711
+2010,89,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'europop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",81,5931624
+2010,90,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'talent show']",78,4812651
+2010,91,Hayley Williams,6Rx1JKzBrSzoKQtmbVmBnM,"['alternative rock', 'pop punk', 'pop rock', 'emo']",67,32086
+2010,92,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",87,12086307
+2010,93,Flo Rida,0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop']",81,6935124
+2010,94,Robin Thicke,0ZrpamOxcZybMHGg1AYtHP,"['dance pop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",68,1390024
+2010,95,Shinedown,70BYFdaZbEKbeauJ670ysI,"['alternative metal', 'nu metal', 'post-grunge', 'rap rock']",75,1862369
+2010,96,Melanie Fiona,4O2YL4ygn6eTBC0w1hyWUM,"['canadian pop', 'dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",53,418460
+2010,97,Shontelle,4M6Z1wubeKtwPqbjJygTOc,['post-teen pop'],59,310466
+2010,98,Sara Bareilles,2Sqr0DXoaYABbjBo9HaMkM,"['acoustic pop', 'dance pop', 'folk-pop', 'hollywood', 'lilith', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'show tunes', 'viral pop']",75,1125828
+2010,99,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2010,100,The Band Perry,75FnCoo4FBxH5K1Rrx0k5A,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",62,918198
+2009,1,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147456
+2009,2,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199648
+2009,3,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['dance pop', 'pop']",91,7262692
+2009,4,The Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,"['dance pop', 'pop', 'pop rap']",79,3365730
+2009,5,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"['dance pop', 'pop', 'post-teen pop']",84,8442279
+2009,6,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2009,7,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'europop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",81,5931624
+2009,8,T.I.,4OBJLual30L7gRl5UkeRcT,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,2793940
+2009,9,Nickelback,6deZN1bslXzeGvOLaLMOIF,"['alternative metal', 'canadian pop', 'canadian rock', 'nu metal', 'post-grunge']",78,3505715
+2009,10,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107937
+2009,11,Kings Of Leon,2qk9voo8llSGYcZ6xrBzKx,"['garage rock', 'indie rock', 'modern rock', 'rock']",78,3762229
+2009,12,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673197
+2009,13,Flo Rida,0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop']",81,6935124
+2009,14,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'talent show']",78,4812651
+2009,15,Jason Mraz,4phGZZrJZRo4ElhRtViYdl,"['acoustic pop', 'neo mellow', 'pop', 'pop rock', 'viral pop']",80,4296295
+2009,16,The Fray,0zOcE3mg9nS6l3yxt1Y0bK,"['ambient worship', 'modern rock', 'neo mellow', 'piano rock', 'pop', 'pop rock']",74,2389811
+2009,17,Ne-Yo,21E3waRsmPlU7jZsS13rcj,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",81,4436379
+2009,18,Lil Wayne,55Aa2cqylxrFIXC767Z865,"['hip hop', 'new orleans rap', 'pop', 'pop rap', 'rap', 'trap music']",91,7686855
+2009,19,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"['contemporary country', 'country', 'country road', 'pop rock']",74,1822938
+2009,20,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"['contemporary country', 'country', 'country road', 'modern country rock']",76,1451598
+2009,21,Pitbull,0TnOYISbd1XYRBk9myaseg,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",83,6824107
+2009,22,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096471
+2009,23,Jamie Foxx,7LnaAXbDVIL75IVPnndf7w,"['dance pop', 'hip pop', 'neo soul', 'pop rap', 'r&b', 'southern hip hop', 'urban contemporary']",70,515181
+2009,24,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932482
+2009,25,The All-American Rejects,3vAaWhdBR38Q02ohXqaNHT,"['modern rock', 'neo mellow', 'pop punk', 'pop rap', 'pop rock', 'post-grunge']",70,1388021
+2009,26,Drake,3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",98,35712256
+2009,27,Akon,0z4gvV4rjIZ9wHck67ucSV,"['dance pop', 'pop rap', 'r&b']",81,1866458
+2009,28,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742934
+2009,29,Keri Hilson,63wjoROpeh5f11Qm93UiJ1,"['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",68,1000686
+2009,30,Shinedown,70BYFdaZbEKbeauJ670ysI,"['alternative metal', 'nu metal', 'post-grunge', 'rap rock']",75,1862369
+2009,31,Soulja Boy,6GMYJwaziB4ekv1Y6wCDWS,"['atl hip hop', 'dance pop', 'dirty south rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",71,799760
+2009,32,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033168
+2009,33,David Cook,4SQxI8xg6LcSWL3KuGVHLa,"['idol', 'neo mellow', 'pop rock', 'talent show']",47,160866
+2009,34,T-Pain,3aQeKQSyrW4qWr35idm0cy,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",81,1968824
+2009,35,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257553
+2009,36,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['contemporary country', 'country', 'country road']",79,2965423
+2009,37,Daughtry,5P5FTygHyx2G57oszR3Wot,"['alternative metal', 'neo mellow', 'nu metal', 'pop rock', 'post-grunge']",68,1105947
+2009,38,Green Day,7oPftvlwr6VrsViSDV7fJY,"['permanent wave', 'pop punk', 'punk', 'rock']",82,8563536
+2009,39,Lady Antebellum,32WkQRZEVKSzVAAYqukAEA,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow']",70,2421934
+2009,40,Sugarland,0hYxQe3AK5jBPCr5MumLHD,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock', 'pop rock']",64,906216
+2009,41,Darius Rucker,7FY5V3XMwlNBPitEjXowHQ,"['contemporary country', 'country', 'country road', 'modern country rock', 'pop rock']",70,1187910
+2009,42,Kid Cudi,0fA0VVWsXO9YnASrzqfmYu,"['hip hop', 'pop rap', 'rap']",79,2964802
+2009,43,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2009,44,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",88,19023489
+2009,45,3OH!3,0FWzNDaEu9jdgcYTbcOa4F,"['dance pop', 'electropowerpop', 'emo', 'pop punk', 'pop rap', 'post-teen pop']",66,505927
+2009,46,Jonas Brothers,7gOdHgIoIKoe4i9Tta6qdD,"['boy band', 'dance pop', 'pop', 'post-teen pop']",86,1983354
+2009,47,Jeremih,3KV3p5EY4AvKxOlhGHORLg,"['chicago rap', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",82,3295614
+2009,48,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,"['contemporary country', 'country', 'country road']",71,1046374
+2009,49,Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,"['dance pop', 'pop', 'r&b', 'urban contemporary']",79,4141858
+2009,50,Maxwell,2AOt5htsbtyaHd5Eq3kl3j,"['dance pop', 'funk', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",62,789532
+2008,1,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443692
+2008,2,Lil Wayne,55Aa2cqylxrFIXC767Z865,"['hip hop', 'new orleans rap', 'pop', 'pop rap', 'rap', 'trap music']",91,7686855
+2008,3,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096471
+2008,4,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,"['hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",80,6054023
+2008,5,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147456
+2008,6,Leona Lewis,5lKZWd6HiSCLfnDGrq9RAm,"['australian pop', 'british soul', 'dance pop', 'europop', 'neo mellow', 'neo soul', 'pop', 'post-teen pop', 'r&b', 'talent show', 'uk pop', 'urban contemporary']",73,1691419
+2008,7,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"['dance pop', 'pop', 'post-teen pop']",84,8442280
+2008,8,Jordin Sparks,2AQjGvtT0pFYfxR3neFcvz,"['dance pop', 'europop', 'neo mellow', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'r&b', 'urban contemporary']",68,1117371
+2008,9,Jonas Brothers,7gOdHgIoIKoe4i9Tta6qdD,"['boy band', 'dance pop', 'pop', 'post-teen pop']",86,1983354
+2008,10,T.I.,4OBJLual30L7gRl5UkeRcT,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,2793940
+2008,11,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",88,19023489
+2008,12,Flo Rida,0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop']",81,6935124
+2008,13,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257553
+2008,14,T-Pain,3aQeKQSyrW4qWr35idm0cy,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",81,1968824
+2008,15,Josh Groban,6cXMpsP9x0SH4kFfMyVezF,"['adult standards', 'christmas', 'operatic pop']",66,414191
+2008,16,Colbie Caillat,6aZyMrc4doVtZyKNilOmwu,"['acoustic pop', 'dance pop', 'folk-pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",74,1447925
+2008,17,Ne-Yo,21E3waRsmPlU7jZsS13rcj,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",81,4436379
+2008,18,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2008,19,Katy Perry,6jJ0s89eD6GaHleKKya26X,"['dance pop', 'pop', 'post-teen pop']",85,12673197
+2008,20,Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,"['dance pop', 'pop', 'r&b', 'urban contemporary']",79,4141858
+2008,21,Sugarland,0hYxQe3AK5jBPCr5MumLHD,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock', 'pop rock']",64,906216
+2008,22,Usher,23zg3TcAtWQy7J6upgbUnj,"['atl hip hop', 'dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",82,6853502
+2008,23,Sara Bareilles,2Sqr0DXoaYABbjBo9HaMkM,"['acoustic pop', 'dance pop', 'folk-pop', 'hollywood', 'lilith', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'show tunes', 'viral pop']",75,1125828
+2008,24,Fergie,3r17AfJCCUqC9Lf0OAc73G,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",73,2980605
+2008,25,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",83,7344487
+2008,26,Natasha Bedingfield,7o95ZoZt5ZYn31e9z1Hc0a,"['dance pop', 'europop', 'folk-pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b']",69,752869
+2008,27,Timbaland,5Y5TRrQiqgUO4S36tzjIRZ,"['dance pop', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'urban contemporary']",76,1326332
+2008,28,Kid Rock,7dOBabd5O4CvKrg4iriHTM,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",71,813260
+2008,29,Keyshia Cole,1vfezMIyCr4XUdYRaKIKi3,"['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'pop', 'pop rap', 'r&b', 'urban contemporary']",67,1566216
+2008,30,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'europop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",81,5931624
+2008,31,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107937
+2008,32,Mary J. Blige,1XkoF8ryArs86LZvFOkbyr,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",72,1807703
+2008,33,Daughtry,5P5FTygHyx2G57oszR3Wot,"['alternative metal', 'neo mellow', 'nu metal', 'pop rock', 'post-grunge']",68,1105947
+2008,34,George Strait,5vngPClqofybhPERIqQMYd,"['contemporary country', 'country', 'country road']",76,1207864
+2008,35,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"['contemporary country', 'country', 'country road', 'pop rock']",74,1822938
+2008,36,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2008,37,Plies,3jksrX4oBklxR78ft8gv3j,"['deep southern trap', 'dirty south rap', 'gangster rap', 'hip hop', 'miami hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",68,856379
+2008,38,The-Dream,1W3FSF1BLpY3hlVIgvenLz,"['alternative r&b', 'dance pop', 'deep pop r&b', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",69,617882
+2008,39,Eagles,0ECwFtbIWEVNwjlrfc6xoL,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",78,2955402
+2008,40,Brad Paisley,13YmWQJFwgZrd4bf5IjMY4,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1449044
+2008,41,Jason Mraz,4phGZZrJZRo4ElhRtViYdl,"['acoustic pop', 'neo mellow', 'pop', 'pop rock', 'viral pop']",80,4296295
+2008,42,Soulja Boy,6GMYJwaziB4ekv1Y6wCDWS,"['atl hip hop', 'dance pop', 'dirty south rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",71,799760
+2008,43,Young Jeezy,4yBK75WVCQXej1p04GWqxH,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",74,1236176
+2008,44,Sean Kingston,6S0dmVVn4udvppDhZIWxCr,"['dance pop', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",73,1348763
+2008,45,Akon,0z4gvV4rjIZ9wHck67ucSV,"['dance pop', 'pop rap', 'r&b']",81,1866458
+2008,46,Madonna,6tbjWDEIzxoDsBA1FuhfPW,"['dance pop', 'europop', 'pop', 'pop rock']",78,2962421
+2008,47,Paramore,74XFHRwlV6OrjEM0A2NCMF,"['candy pop', 'emo', 'pixie', 'pop emo', 'pop punk']",79,4145827
+2008,48,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",87,12086307
+2008,49,Finger Eleven,0niJkG4tKkne3zwr7I8n9n,"['alternative metal', 'canadian rock', 'funk metal', 'nu metal', 'post-grunge', 'rap rock', 'wrestling']",59,325046
+2008,50,Garth Brooks,4BclNkZtAUq1YrYNzye3N7,"['contemporary country', 'country', 'country road']",53,606113
+2007,1,Akon,0z4gvV4rjIZ9wHck67ucSV,"['dance pop', 'pop rap', 'r&b']",81,1866458
+2007,2,Fergie,3r17AfJCCUqC9Lf0OAc73G,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",73,2980605
+2007,3,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']",83,7840587
+2007,4,Daughtry,5P5FTygHyx2G57oszR3Wot,"['alternative metal', 'neo mellow', 'nu metal', 'pop rock', 'post-grunge']",68,1105947
+2007,5,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257553
+2007,6,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199649
+2007,7,Nickelback,6deZN1bslXzeGvOLaLMOIF,"['alternative metal', 'canadian pop', 'canadian rock', 'nu metal', 'post-grunge']",78,3505715
+2007,8,Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",80,4175301
+2007,9,T-Pain,3aQeKQSyrW4qWr35idm0cy,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",81,1968824
+2007,10,Gwen Stefani,4yiQZ8tQPux8cPriYMWUFP,"['dance pop', 'europop', 'hip pop', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'urban contemporary']",74,2953112
+2007,11,Timbaland,5Y5TRrQiqgUO4S36tzjIRZ,"['dance pop', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'urban contemporary']",76,1326332
+2007,12,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096471
+2007,13,Nelly Furtado,2jw70GZXlAI8QzWeY2bgRc,"['canadian pop', 'dance pop', 'pop', 'pop rock', 'post-teen pop']",73,1461254
+2007,14,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"['contemporary country', 'country', 'country road', 'pop rock']",74,1822942
+2007,15,Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],89,17458013
+2007,16,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2007,17,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,"['emo', 'modern rock', 'pop punk']",84,6254665
+2007,18,T.I.,4OBJLual30L7gRl5UkeRcT,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,2793940
+2007,19,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",87,12086307
+2007,20,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",82,4742934
+2007,21,Ciara,2NdeV5rLm47xAvogXrYhJX,"['dance pop', 'hip hop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']",75,3713953
+2007,22,The Fray,0zOcE3mg9nS6l3yxt1Y0bK,"['ambient worship', 'modern rock', 'neo mellow', 'piano rock', 'pop', 'pop rock']",74,2389811
+2007,23,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"['contemporary country', 'country', 'country road']",76,2656923
+2007,24,Hinder,6BMhCQJYHxxKAeqYS1p5rY,"['alternative metal', 'nu metal', 'pop rock', 'post-grunge', 'rap rock']",64,853735
+2007,25,Plain White T's,1g1yxsNVPhMUl9GrMjEb2o,"['neo mellow', 'pop punk', 'pop rock', 'post-teen pop']",70,627233
+2007,26,P!nk,1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop', 'post-teen pop']",86,6107937
+2007,27,Ne-Yo,21E3waRsmPlU7jZsS13rcj,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",81,4436379
+2007,28,Brad Paisley,13YmWQJFwgZrd4bf5IjMY4,"['contemporary country', 'country', 'country road', 'modern country rock']",70,1449044
+2007,29,Mims,76RrKpsvOmSKG8CIjROdSG,['pop rap'],49,62434
+2007,30,Ludacris,3ipn9JLAPI5GUEo4y4jcoi,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",78,1592859
+2007,31,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"['dance pop', 'pop', 'post-teen pop']",89,19147460
+2007,32,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2007,33,Robin Thicke,0ZrpamOxcZybMHGg1AYtHP,"['dance pop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",68,1390024
+2007,34,Lloyd,3EOEK57CV77D4ovYVcmiyt,['israeli pop'],77,211427
+2007,35,Unk,0PGtMx1bsqoCHCy3MB3gXA,"['atl hip hop', 'dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap music']",49,91708
+2007,36,Shop Boyz,3v3clM1KQgVfpPjKJFPAmx,"['atl hip hop', 'dirty south rap', 'pop rap', 'southern hip hop']",46,41938
+2007,37,Sean Kingston,6S0dmVVn4udvppDhZIWxCr,"['dance pop', 'miami hip hop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",73,1348763
+2007,38,Soulja Boy,6GMYJwaziB4ekv1Y6wCDWS,"['atl hip hop', 'dance pop', 'dirty south rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",71,799760
+2007,39,My Chemical Romance,7FBcuc1gsnv6Y1nwFtNRCb,"['emo', 'pop punk']",78,3797256
+2007,40,John Mayer,0hEurMDQu99nJRq8pTxO14,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",87,3628782
+2007,41,Amy Winehouse,6Q192DXotxtaysaqNPy5yR,"['british soul', 'neo soul']",78,5488906
+2007,42,Young Jeezy,4yBK75WVCQXej1p04GWqxH,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",74,1236176
+2007,43,Bow Wow,7352aRY2mqSxBZwzUb6LmA,"['dance pop', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",63,584186
+2007,44,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033170
+2007,45,Sugarland,0hYxQe3AK5jBPCr5MumLHD,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock', 'pop rock']",64,906216
+2007,46,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443692
+2007,47,50 Cent,3q7HBObVc0L8jNeTe5Gofh,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",83,5230248
+2007,48,Snoop Dogg,7hJcb9fa4alzcOq3EaNPoG,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",85,4502618
+2007,49,R. Kelly,2mxe0TnaNL039ysAj51xPQ,"['r&b', 'soul', 'hip hop']",73,1848624
+2007,50,Josh Groban,6cXMpsP9x0SH4kFfMyVezF,"['adult standards', 'christmas', 'operatic pop']",66,414191
+2006,1,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,8443692
+2006,2,Nickelback,6deZN1bslXzeGvOLaLMOIF,"['alternative metal', 'canadian pop', 'canadian rock', 'nu metal', 'post-grunge']",78,3505715
+2006,3,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"['contemporary country', 'country', 'country road', 'pop rock']",74,1822942
+2006,4,Sean Paul,3Isy6kedDrgPYoTS1dazA9,"['dance pop', 'dancehall', 'pop', 'pop rap']",85,2384807
+2006,5,Ne-Yo,21E3waRsmPlU7jZsS13rcj,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",81,4436379
+2006,6,The Pussycat Dolls,6wPhSqRtPu1UhRCDX5yaDJ,"['dance pop', 'girl group', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",71,2653120
+2006,7,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",90,31096474
+2006,8,Mary J. Blige,1XkoF8ryArs86LZvFOkbyr,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",72,1807703
+2006,9,The Fray,0zOcE3mg9nS6l3yxt1Y0bK,"['ambient worship', 'modern rock', 'neo mellow', 'piano rock', 'pop', 'pop rock']",74,2389811
+2006,10,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']",83,7840587
+2006,11,James Blunt,7KMqksf0UMdyA0UCf4R3ux,"['neo mellow', 'pop', 'pop rock']",76,1874720
+2006,12,The All-American Rejects,3vAaWhdBR38Q02ohXqaNHT,"['modern rock', 'neo mellow', 'pop punk', 'pop rap', 'pop rock', 'post-grunge']",70,1388021
+2006,13,Beyonce,6vWDO969PvNqNYHIOW5v0m,"['dance pop', 'pop', 'post-teen pop', 'r&b']",86,18199651
+2006,14,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b', 'talent show']",78,4812651
+2006,15,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop', 'post-teen pop']",75,3257553
+2006,16,T.I.,4OBJLual30L7gRl5UkeRcT,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",80,2793940
+2006,17,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,"['emo', 'modern rock', 'pop punk']",84,6254665
+2006,18,Daniel Powter,7xTcuBOIAAIGDOSvwYFPzk,"['canadian pop', 'neo mellow', 'pop rock']",65,145722
+2006,19,The Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,"['dance pop', 'pop', 'pop rap']",79,3365730
+2006,20,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",93,25932490
+2006,21,Natasha Bedingfield,7o95ZoZt5ZYn31e9z1Hc0a,"['dance pop', 'europop', 'folk-pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'r&b']",69,752869
+2006,22,Gnarls Barkley,5SbkVQYYzlw1kte75QIabH,"['atl hip hop', 'neo soul']",67,261358
+2006,23,Yung Joc,23LbwefIODbyGdRbAz3urj,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap music']",67,329682
+2006,24,Chamillionaire,6vdMPayKk8YJxxeNP5oMCb,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",64,388982
+2006,25,Nelly Furtado,2jw70GZXlAI8QzWeY2bgRc,"['canadian pop', 'dance pop', 'pop', 'pop rock', 'post-teen pop']",73,1461254
+2006,26,Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,"['dance pop', 'pop', 'r&b', 'urban contemporary']",79,4141858
+2006,27,Shakira,0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",84,15943513
+2006,28,Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5,"['alternative rock', 'funk metal', 'permanent wave', 'post-grunge', 'rock']",86,10188418
+2006,29,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"['contemporary country', 'country', 'country road']",75,2401704
+2006,30,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,"['emo', 'modern rock', 'pop punk']",88,6608191
+2006,31,Fergie,3r17AfJCCUqC9Lf0OAc73G,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",73,2980605
+2006,32,Jamie Foxx,7LnaAXbDVIL75IVPnndf7w,"['dance pop', 'hip pop', 'neo soul', 'pop rap', 'r&b', 'southern hip hop', 'urban contemporary']",70,515181
+2006,33,Cassie,27FGXRNruFoOdf1vP8dqcH,"['dance pop', 'hip pop', 'post-teen pop', 'r&b', 'urban contemporary']",62,676237
+2006,34,Nelly,2gBjLmx6zQnFGQJCAQpRgw,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",77,1231479
+2006,35,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,"['dance pop', 'europop', 'pop', 'post-teen pop', 'r&b']",80,4107959
+2006,36,Dem Franchize Boyz,0VKTLKamj4IH8OfQbUL0kq,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'hip pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",52,168520
+2006,37,Hinder,6BMhCQJYHxxKAeqYS1p5rY,"['alternative metal', 'nu metal', 'pop rock', 'post-grunge', 'rap rock']",64,853735
+2006,38,T-Pain,3aQeKQSyrW4qWr35idm0cy,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music', 'urban contemporary']",81,1968824
+2006,39,Ludacris,3ipn9JLAPI5GUEo4y4jcoi,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",78,1592859
+2006,40,Keyshia Cole,1vfezMIyCr4XUdYRaKIKi3,"['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'pop', 'pop rap', 'r&b', 'urban contemporary']",67,1566216
+2006,41,KT Tunstall,5zzrJD2jXrE9dZ1AklRFcL,"['folk-pop', 'lilith', 'neo mellow', 'pop rock', 'scottish singer-songwriter']",62,214478
+2006,42,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'pop rap', 'rap']",91,9560311
+2006,43,Snow Patrol,3rIZMv9rysU7JkLzEaC5Jp,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock', 'rock']",73,1633037
+2006,44,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"['contemporary country', 'country', 'country road']",76,2656923
+2006,45,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"['australian country', 'contemporary country', 'country', 'country road']",75,3033170
+2006,46,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,"['contemporary country', 'country', 'country road']",71,1046374
+2006,47,D4L,4AllEJE7mVkhhyUV6DjqPz,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'pop rap', 'southern hip hop', 'trap music']",54,116533
+2006,48,Juelz Santana,6Uh8uJyN9g7oFjDK16nJgb,"['gangster rap', 'hardcore hip hop', 'hip hop', 'nyc rap', 'pop rap', 'rap', 'trap music']",67,340925
+2006,49,Madonna,6tbjWDEIzxoDsBA1FuhfPW,"['dance pop', 'europop', 'pop', 'pop rock']",78,2962421
+2006,50,Josh Turner,7vCtweS8UVAXTyau2j0rDT,"['contemporary country', 'country', 'country road', 'modern country rock']",68,1269217
