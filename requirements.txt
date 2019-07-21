@@ -1,0 +1,8 @@
+flask
+dash
+dash_cytoscape
+plotly
+pandas
+beautifulsoup4
+requests
+lxml
